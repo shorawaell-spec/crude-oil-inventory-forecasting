@@ -1,0 +1,2 @@
+Model,MAE (kb),RMSE (kb),R² Score,Directional Accuracy (%)
+LightGBM (Standardized Target + Recency Weighted),3656.41,4677.17,0.0878,59.62

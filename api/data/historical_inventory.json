@@ -1,0 +1,5860 @@
+{
+  "source": "crude_weekly_complete",
+  "rows": [
+    {
+      "date": "2004-04-09",
+      "stocks_kb": 279266.0,
+      "weekly_change_kb": 3148.0
+    },
+    {
+      "date": "2004-04-16",
+      "stocks_kb": 279474.0,
+      "weekly_change_kb": 208.0
+    },
+    {
+      "date": "2004-04-23",
+      "stocks_kb": 282653.0,
+      "weekly_change_kb": 3179.0
+    },
+    {
+      "date": "2004-04-30",
+      "stocks_kb": 282748.0,
+      "weekly_change_kb": 95.0
+    },
+    {
+      "date": "2004-05-07",
+      "stocks_kb": 283676.0,
+      "weekly_change_kb": 928.0
+    },
+    {
+      "date": "2004-05-14",
+      "stocks_kb": 282580.0,
+      "weekly_change_kb": -1096.0
+    },
+    {
+      "date": "2004-05-21",
+      "stocks_kb": 282605.0,
+      "weekly_change_kb": 25.0
+    },
+    {
+      "date": "2004-05-28",
+      "stocks_kb": 285384.0,
+      "weekly_change_kb": 2779.0
+    },
+    {
+      "date": "2004-06-04",
+      "stocks_kb": 286099.0,
+      "weekly_change_kb": 715.0
+    },
+    {
+      "date": "2004-06-11",
+      "stocks_kb": 286951.0,
+      "weekly_change_kb": 852.0
+    },
+    {
+      "date": "2004-06-18",
+      "stocks_kb": 289366.0,
+      "weekly_change_kb": 2415.0
+    },
+    {
+      "date": "2004-06-25",
+      "stocks_kb": 288862.0,
+      "weekly_change_kb": -504.0
+    },
+    {
+      "date": "2004-07-02",
+      "stocks_kb": 288952.0,
+      "weekly_change_kb": 90.0
+    },
+    {
+      "date": "2004-07-09",
+      "stocks_kb": 286780.0,
+      "weekly_change_kb": -2172.0
+    },
+    {
+      "date": "2004-07-16",
+      "stocks_kb": 283207.0,
+      "weekly_change_kb": -3573.0
+    },
+    {
+      "date": "2004-07-23",
+      "stocks_kb": 284379.0,
+      "weekly_change_kb": 1172.0
+    },
+    {
+      "date": "2004-07-30",
+      "stocks_kb": 282564.0,
+      "weekly_change_kb": -1815.0
+    },
+    {
+      "date": "2004-08-06",
+      "stocks_kb": 278427.0,
+      "weekly_change_kb": -4137.0
+    },
+    {
+      "date": "2004-08-13",
+      "stocks_kb": 277216.0,
+      "weekly_change_kb": -1211.0
+    },
+    {
+      "date": "2004-08-20",
+      "stocks_kb": 275516.0,
+      "weekly_change_kb": -1700.0
+    },
+    {
+      "date": "2004-08-27",
+      "stocks_kb": 271284.0,
+      "weekly_change_kb": -4232.0
+    },
+    {
+      "date": "2004-09-03",
+      "stocks_kb": 269754.0,
+      "weekly_change_kb": -1530.0
+    },
+    {
+      "date": "2004-09-10",
+      "stocks_kb": 262742.0,
+      "weekly_change_kb": -7012.0
+    },
+    {
+      "date": "2004-09-17",
+      "stocks_kb": 253630.0,
+      "weekly_change_kb": -9112.0
+    },
+    {
+      "date": "2004-09-24",
+      "stocks_kb": 257031.0,
+      "weekly_change_kb": 3401.0
+    },
+    {
+      "date": "2004-10-01",
+      "stocks_kb": 257912.0,
+      "weekly_change_kb": 881.0
+    },
+    {
+      "date": "2004-10-08",
+      "stocks_kb": 262115.0,
+      "weekly_change_kb": 4203.0
+    },
+    {
+      "date": "2004-10-15",
+      "stocks_kb": 263313.0,
+      "weekly_change_kb": 1198.0
+    },
+    {
+      "date": "2004-10-22",
+      "stocks_kb": 267257.0,
+      "weekly_change_kb": 3944.0
+    },
+    {
+      "date": "2004-10-29",
+      "stocks_kb": 273529.0,
+      "weekly_change_kb": 6272.0
+    },
+    {
+      "date": "2004-11-05",
+      "stocks_kb": 275232.0,
+      "weekly_change_kb": 1703.0
+    },
+    {
+      "date": "2004-11-12",
+      "stocks_kb": 276047.0,
+      "weekly_change_kb": 815.0
+    },
+    {
+      "date": "2004-11-19",
+      "stocks_kb": 276132.0,
+      "weekly_change_kb": 85.0
+    },
+    {
+      "date": "2004-11-26",
+      "stocks_kb": 276981.0,
+      "weekly_change_kb": 849.0
+    },
+    {
+      "date": "2004-12-03",
+      "stocks_kb": 277522.0,
+      "weekly_change_kb": 541.0
+    },
+    {
+      "date": "2004-12-10",
+      "stocks_kb": 277396.0,
+      "weekly_change_kb": -126.0
+    },
+    {
+      "date": "2004-12-17",
+      "stocks_kb": 279520.0,
+      "weekly_change_kb": 2124.0
+    },
+    {
+      "date": "2004-12-24",
+      "stocks_kb": 278661.0,
+      "weekly_change_kb": -859.0
+    },
+    {
+      "date": "2004-12-31",
+      "stocks_kb": 275442.0,
+      "weekly_change_kb": -3219.0
+    },
+    {
+      "date": "2005-01-07",
+      "stocks_kb": 273060.0,
+      "weekly_change_kb": -2382.0
+    },
+    {
+      "date": "2005-01-14",
+      "stocks_kb": 276461.0,
+      "weekly_change_kb": 3401.0
+    },
+    {
+      "date": "2005-01-21",
+      "stocks_kb": 279890.0,
+      "weekly_change_kb": 3429.0
+    },
+    {
+      "date": "2005-01-28",
+      "stocks_kb": 279566.0,
+      "weekly_change_kb": -324.0
+    },
+    {
+      "date": "2005-02-04",
+      "stocks_kb": 278156.0,
+      "weekly_change_kb": -1410.0
+    },
+    {
+      "date": "2005-02-11",
+      "stocks_kb": 280298.0,
+      "weekly_change_kb": 2142.0
+    },
+    {
+      "date": "2005-02-18",
+      "stocks_kb": 280906.0,
+      "weekly_change_kb": 608.0
+    },
+    {
+      "date": "2005-02-25",
+      "stocks_kb": 283301.0,
+      "weekly_change_kb": 2395.0
+    },
+    {
+      "date": "2005-03-04",
+      "stocks_kb": 286276.0,
+      "weekly_change_kb": 2975.0
+    },
+    {
+      "date": "2005-03-11",
+      "stocks_kb": 288869.0,
+      "weekly_change_kb": 2593.0
+    },
+    {
+      "date": "2005-03-18",
+      "stocks_kb": 292966.0,
+      "weekly_change_kb": 4097.0
+    },
+    {
+      "date": "2005-03-25",
+      "stocks_kb": 298349.0,
+      "weekly_change_kb": 5383.0
+    },
+    {
+      "date": "2005-04-01",
+      "stocks_kb": 301151.0,
+      "weekly_change_kb": 2802.0
+    },
+    {
+      "date": "2005-04-08",
+      "stocks_kb": 304805.0,
+      "weekly_change_kb": 3654.0
+    },
+    {
+      "date": "2005-04-15",
+      "stocks_kb": 303032.0,
+      "weekly_change_kb": -1773.0
+    },
+    {
+      "date": "2005-04-22",
+      "stocks_kb": 308447.0,
+      "weekly_change_kb": 5415.0
+    },
+    {
+      "date": "2005-04-29",
+      "stocks_kb": 311127.0,
+      "weekly_change_kb": 2680.0
+    },
+    {
+      "date": "2005-05-06",
+      "stocks_kb": 313562.0,
+      "weekly_change_kb": 2435.0
+    },
+    {
+      "date": "2005-05-13",
+      "stocks_kb": 317905.0,
+      "weekly_change_kb": 4343.0
+    },
+    {
+      "date": "2005-05-20",
+      "stocks_kb": 316218.0,
+      "weekly_change_kb": -1687.0
+    },
+    {
+      "date": "2005-05-27",
+      "stocks_kb": 317706.0,
+      "weekly_change_kb": 1488.0
+    },
+    {
+      "date": "2005-06-03",
+      "stocks_kb": 314711.0,
+      "weekly_change_kb": -2995.0
+    },
+    {
+      "date": "2005-06-10",
+      "stocks_kb": 312928.0,
+      "weekly_change_kb": -1783.0
+    },
+    {
+      "date": "2005-06-17",
+      "stocks_kb": 311349.0,
+      "weekly_change_kb": -1579.0
+    },
+    {
+      "date": "2005-06-24",
+      "stocks_kb": 312453.0,
+      "weekly_change_kb": 1104.0
+    },
+    {
+      "date": "2005-07-01",
+      "stocks_kb": 308884.0,
+      "weekly_change_kb": -3569.0
+    },
+    {
+      "date": "2005-07-08",
+      "stocks_kb": 304985.0,
+      "weekly_change_kb": -3899.0
+    },
+    {
+      "date": "2005-07-15",
+      "stocks_kb": 304085.0,
+      "weekly_change_kb": -900.0
+    },
+    {
+      "date": "2005-07-22",
+      "stocks_kb": 301840.0,
+      "weekly_change_kb": -2245.0
+    },
+    {
+      "date": "2005-07-29",
+      "stocks_kb": 302036.0,
+      "weekly_change_kb": 196.0
+    },
+    {
+      "date": "2005-08-05",
+      "stocks_kb": 304790.0,
+      "weekly_change_kb": 2754.0
+    },
+    {
+      "date": "2005-08-12",
+      "stocks_kb": 305031.0,
+      "weekly_change_kb": 241.0
+    },
+    {
+      "date": "2005-08-19",
+      "stocks_kb": 306883.0,
+      "weekly_change_kb": 1852.0
+    },
+    {
+      "date": "2005-08-26",
+      "stocks_kb": 305363.0,
+      "weekly_change_kb": -1520.0
+    },
+    {
+      "date": "2005-09-02",
+      "stocks_kb": 298938.0,
+      "weekly_change_kb": -6425.0
+    },
+    {
+      "date": "2005-09-09",
+      "stocks_kb": 292378.0,
+      "weekly_change_kb": -6560.0
+    },
+    {
+      "date": "2005-09-16",
+      "stocks_kb": 292056.0,
+      "weekly_change_kb": -322.0
+    },
+    {
+      "date": "2005-09-23",
+      "stocks_kb": 289644.0,
+      "weekly_change_kb": -2412.0
+    },
+    {
+      "date": "2005-09-30",
+      "stocks_kb": 289398.0,
+      "weekly_change_kb": -246.0
+    },
+    {
+      "date": "2005-10-07",
+      "stocks_kb": 290324.0,
+      "weekly_change_kb": 926.0
+    },
+    {
+      "date": "2005-10-14",
+      "stocks_kb": 295879.0,
+      "weekly_change_kb": 5555.0
+    },
+    {
+      "date": "2005-10-21",
+      "stocks_kb": 300293.0,
+      "weekly_change_kb": 4414.0
+    },
+    {
+      "date": "2005-10-28",
+      "stocks_kb": 303027.0,
+      "weekly_change_kb": 2734.0
+    },
+    {
+      "date": "2005-11-04",
+      "stocks_kb": 307436.0,
+      "weekly_change_kb": 4409.0
+    },
+    {
+      "date": "2005-11-11",
+      "stocks_kb": 305277.0,
+      "weekly_change_kb": -2159.0
+    },
+    {
+      "date": "2005-11-18",
+      "stocks_kb": 305631.0,
+      "weekly_change_kb": 354.0
+    },
+    {
+      "date": "2005-11-25",
+      "stocks_kb": 301443.0,
+      "weekly_change_kb": -4188.0
+    },
+    {
+      "date": "2005-12-02",
+      "stocks_kb": 304230.0,
+      "weekly_change_kb": 2787.0
+    },
+    {
+      "date": "2005-12-09",
+      "stocks_kb": 305122.0,
+      "weekly_change_kb": 892.0
+    },
+    {
+      "date": "2005-12-16",
+      "stocks_kb": 306422.0,
+      "weekly_change_kb": 1300.0
+    },
+    {
+      "date": "2005-12-23",
+      "stocks_kb": 306540.0,
+      "weekly_change_kb": 118.0
+    },
+    {
+      "date": "2005-12-30",
+      "stocks_kb": 305527.0,
+      "weekly_change_kb": -1013.0
+    },
+    {
+      "date": "2006-01-06",
+      "stocks_kb": 302584.0,
+      "weekly_change_kb": -2943.0
+    },
+    {
+      "date": "2006-01-13",
+      "stocks_kb": 305325.0,
+      "weekly_change_kb": 2741.0
+    },
+    {
+      "date": "2006-01-20",
+      "stocks_kb": 303016.0,
+      "weekly_change_kb": -2309.0
+    },
+    {
+      "date": "2006-01-27",
+      "stocks_kb": 304935.0,
+      "weekly_change_kb": 1919.0
+    },
+    {
+      "date": "2006-02-03",
+      "stocks_kb": 304523.0,
+      "weekly_change_kb": -412.0
+    },
+    {
+      "date": "2006-02-10",
+      "stocks_kb": 309376.0,
+      "weekly_change_kb": 4853.0
+    },
+    {
+      "date": "2006-02-17",
+      "stocks_kb": 310497.0,
+      "weekly_change_kb": 1121.0
+    },
+    {
+      "date": "2006-02-24",
+      "stocks_kb": 312135.0,
+      "weekly_change_kb": 1638.0
+    },
+    {
+      "date": "2006-03-03",
+      "stocks_kb": 318776.0,
+      "weekly_change_kb": 6641.0
+    },
+    {
+      "date": "2006-03-10",
+      "stocks_kb": 323612.0,
+      "weekly_change_kb": 4836.0
+    },
+    {
+      "date": "2006-03-17",
+      "stocks_kb": 322302.0,
+      "weekly_change_kb": -1310.0
+    },
+    {
+      "date": "2006-03-24",
+      "stocks_kb": 324332.0,
+      "weekly_change_kb": 2030.0
+    },
+    {
+      "date": "2006-03-31",
+      "stocks_kb": 326442.0,
+      "weekly_change_kb": 2110.0
+    },
+    {
+      "date": "2006-04-07",
+      "stocks_kb": 329594.0,
+      "weekly_change_kb": 3152.0
+    },
+    {
+      "date": "2006-04-14",
+      "stocks_kb": 328788.0,
+      "weekly_change_kb": -806.0
+    },
+    {
+      "date": "2006-04-21",
+      "stocks_kb": 328562.0,
+      "weekly_change_kb": -226.0
+    },
+    {
+      "date": "2006-04-28",
+      "stocks_kb": 330289.0,
+      "weekly_change_kb": 1727.0
+    },
+    {
+      "date": "2006-05-05",
+      "stocks_kb": 330615.0,
+      "weekly_change_kb": 326.0
+    },
+    {
+      "date": "2006-05-12",
+      "stocks_kb": 330550.0,
+      "weekly_change_kb": -65.0
+    },
+    {
+      "date": "2006-05-19",
+      "stocks_kb": 327552.0,
+      "weekly_change_kb": -2998.0
+    },
+    {
+      "date": "2006-05-26",
+      "stocks_kb": 329151.0,
+      "weekly_change_kb": 1599.0
+    },
+    {
+      "date": "2006-06-02",
+      "stocks_kb": 330434.0,
+      "weekly_change_kb": 1283.0
+    },
+    {
+      "date": "2006-06-09",
+      "stocks_kb": 329454.0,
+      "weekly_change_kb": -980.0
+    },
+    {
+      "date": "2006-06-16",
+      "stocks_kb": 330839.0,
+      "weekly_change_kb": 1385.0
+    },
+    {
+      "date": "2006-06-23",
+      "stocks_kb": 327510.0,
+      "weekly_change_kb": -3329.0
+    },
+    {
+      "date": "2006-06-30",
+      "stocks_kb": 325089.0,
+      "weekly_change_kb": -2421.0
+    },
+    {
+      "date": "2006-07-07",
+      "stocks_kb": 319159.0,
+      "weekly_change_kb": -5930.0
+    },
+    {
+      "date": "2006-07-14",
+      "stocks_kb": 319310.0,
+      "weekly_change_kb": 151.0
+    },
+    {
+      "date": "2006-07-21",
+      "stocks_kb": 319340.0,
+      "weekly_change_kb": 30.0
+    },
+    {
+      "date": "2006-07-28",
+      "stocks_kb": 317566.0,
+      "weekly_change_kb": -1774.0
+    },
+    {
+      "date": "2006-08-04",
+      "stocks_kb": 316380.0,
+      "weekly_change_kb": -1186.0
+    },
+    {
+      "date": "2006-08-11",
+      "stocks_kb": 314773.0,
+      "weekly_change_kb": -1607.0
+    },
+    {
+      "date": "2006-08-18",
+      "stocks_kb": 314130.0,
+      "weekly_change_kb": -643.0
+    },
+    {
+      "date": "2006-08-25",
+      "stocks_kb": 316611.0,
+      "weekly_change_kb": 2481.0
+    },
+    {
+      "date": "2006-09-01",
+      "stocks_kb": 314507.0,
+      "weekly_change_kb": -2104.0
+    },
+    {
+      "date": "2006-09-08",
+      "stocks_kb": 311603.0,
+      "weekly_change_kb": -2904.0
+    },
+    {
+      "date": "2006-09-15",
+      "stocks_kb": 308755.0,
+      "weekly_change_kb": -2848.0
+    },
+    {
+      "date": "2006-09-22",
+      "stocks_kb": 308646.0,
+      "weekly_change_kb": -109.0
+    },
+    {
+      "date": "2006-09-29",
+      "stocks_kb": 312001.0,
+      "weekly_change_kb": 3355.0
+    },
+    {
+      "date": "2006-10-06",
+      "stocks_kb": 314132.0,
+      "weekly_change_kb": 2131.0
+    },
+    {
+      "date": "2006-10-13",
+      "stocks_kb": 319152.0,
+      "weekly_change_kb": 5020.0
+    },
+    {
+      "date": "2006-10-20",
+      "stocks_kb": 315947.0,
+      "weekly_change_kb": -3205.0
+    },
+    {
+      "date": "2006-10-27",
+      "stocks_kb": 317857.0,
+      "weekly_change_kb": 1910.0
+    },
+    {
+      "date": "2006-11-03",
+      "stocks_kb": 318374.0,
+      "weekly_change_kb": 517.0
+    },
+    {
+      "date": "2006-11-10",
+      "stocks_kb": 319657.0,
+      "weekly_change_kb": 1283.0
+    },
+    {
+      "date": "2006-11-17",
+      "stocks_kb": 324818.0,
+      "weekly_change_kb": 5161.0
+    },
+    {
+      "date": "2006-11-24",
+      "stocks_kb": 324458.0,
+      "weekly_change_kb": -360.0
+    },
+    {
+      "date": "2006-12-01",
+      "stocks_kb": 323268.0,
+      "weekly_change_kb": -1190.0
+    },
+    {
+      "date": "2006-12-08",
+      "stocks_kb": 318973.0,
+      "weekly_change_kb": -4295.0
+    },
+    {
+      "date": "2006-12-15",
+      "stocks_kb": 312650.0,
+      "weekly_change_kb": -6323.0
+    },
+    {
+      "date": "2006-12-22",
+      "stocks_kb": 304518.0,
+      "weekly_change_kb": -8132.0
+    },
+    {
+      "date": "2006-12-29",
+      "stocks_kb": 303219.0,
+      "weekly_change_kb": -1299.0
+    },
+    {
+      "date": "2007-01-05",
+      "stocks_kb": 297470.0,
+      "weekly_change_kb": -5749.0
+    },
+    {
+      "date": "2007-01-12",
+      "stocks_kb": 304238.0,
+      "weekly_change_kb": 6768.0
+    },
+    {
+      "date": "2007-01-19",
+      "stocks_kb": 305027.0,
+      "weekly_change_kb": 789.0
+    },
+    {
+      "date": "2007-01-26",
+      "stocks_kb": 307711.0,
+      "weekly_change_kb": 2684.0
+    },
+    {
+      "date": "2007-02-02",
+      "stocks_kb": 307193.0,
+      "weekly_change_kb": -518.0
+    },
+    {
+      "date": "2007-02-09",
+      "stocks_kb": 306604.0,
+      "weekly_change_kb": -589.0
+    },
+    {
+      "date": "2007-02-16",
+      "stocks_kb": 310298.0,
+      "weekly_change_kb": 3694.0
+    },
+    {
+      "date": "2007-02-23",
+      "stocks_kb": 311719.0,
+      "weekly_change_kb": 1421.0
+    },
+    {
+      "date": "2007-03-02",
+      "stocks_kb": 306822.0,
+      "weekly_change_kb": -4897.0
+    },
+    {
+      "date": "2007-03-09",
+      "stocks_kb": 308002.0,
+      "weekly_change_kb": 1180.0
+    },
+    {
+      "date": "2007-03-16",
+      "stocks_kb": 311926.0,
+      "weekly_change_kb": 3924.0
+    },
+    {
+      "date": "2007-03-23",
+      "stocks_kb": 311080.0,
+      "weekly_change_kb": -846.0
+    },
+    {
+      "date": "2007-03-30",
+      "stocks_kb": 315387.0,
+      "weekly_change_kb": 4307.0
+    },
+    {
+      "date": "2007-04-06",
+      "stocks_kb": 316219.0,
+      "weekly_change_kb": 832.0
+    },
+    {
+      "date": "2007-04-13",
+      "stocks_kb": 315225.0,
+      "weekly_change_kb": -994.0
+    },
+    {
+      "date": "2007-04-20",
+      "stocks_kb": 317299.0,
+      "weekly_change_kb": 2074.0
+    },
+    {
+      "date": "2007-04-27",
+      "stocks_kb": 318468.0,
+      "weekly_change_kb": 1169.0
+    },
+    {
+      "date": "2007-05-04",
+      "stocks_kb": 323940.0,
+      "weekly_change_kb": 5472.0
+    },
+    {
+      "date": "2007-05-11",
+      "stocks_kb": 325001.0,
+      "weekly_change_kb": 1061.0
+    },
+    {
+      "date": "2007-05-18",
+      "stocks_kb": 326970.0,
+      "weekly_change_kb": 1969.0
+    },
+    {
+      "date": "2007-05-25",
+      "stocks_kb": 325014.0,
+      "weekly_change_kb": -1956.0
+    },
+    {
+      "date": "2007-06-01",
+      "stocks_kb": 325227.0,
+      "weekly_change_kb": 213.0
+    },
+    {
+      "date": "2007-06-08",
+      "stocks_kb": 325309.0,
+      "weekly_change_kb": 82.0
+    },
+    {
+      "date": "2007-06-15",
+      "stocks_kb": 332211.0,
+      "weekly_change_kb": 6902.0
+    },
+    {
+      "date": "2007-06-22",
+      "stocks_kb": 333773.0,
+      "weekly_change_kb": 1562.0
+    },
+    {
+      "date": "2007-06-29",
+      "stocks_kb": 336924.0,
+      "weekly_change_kb": 3151.0
+    },
+    {
+      "date": "2007-07-06",
+      "stocks_kb": 335336.0,
+      "weekly_change_kb": -1588.0
+    },
+    {
+      "date": "2007-07-13",
+      "stocks_kb": 334887.0,
+      "weekly_change_kb": -449.0
+    },
+    {
+      "date": "2007-07-20",
+      "stocks_kb": 333784.0,
+      "weekly_change_kb": -1103.0
+    },
+    {
+      "date": "2007-07-27",
+      "stocks_kb": 327287.0,
+      "weekly_change_kb": -6497.0
+    },
+    {
+      "date": "2007-08-03",
+      "stocks_kb": 323326.0,
+      "weekly_change_kb": -3961.0
+    },
+    {
+      "date": "2007-08-10",
+      "stocks_kb": 318159.0,
+      "weekly_change_kb": -5167.0
+    },
+    {
+      "date": "2007-08-17",
+      "stocks_kb": 320049.0,
+      "weekly_change_kb": 1890.0
+    },
+    {
+      "date": "2007-08-24",
+      "stocks_kb": 316563.0,
+      "weekly_change_kb": -3486.0
+    },
+    {
+      "date": "2007-08-31",
+      "stocks_kb": 312591.0,
+      "weekly_change_kb": -3972.0
+    },
+    {
+      "date": "2007-09-07",
+      "stocks_kb": 305578.0,
+      "weekly_change_kb": -7013.0
+    },
+    {
+      "date": "2007-09-14",
+      "stocks_kb": 301704.0,
+      "weekly_change_kb": -3874.0
+    },
+    {
+      "date": "2007-09-21",
+      "stocks_kb": 303546.0,
+      "weekly_change_kb": 1842.0
+    },
+    {
+      "date": "2007-09-28",
+      "stocks_kb": 304684.0,
+      "weekly_change_kb": 1138.0
+    },
+    {
+      "date": "2007-10-05",
+      "stocks_kb": 302875.0,
+      "weekly_change_kb": -1809.0
+    },
+    {
+      "date": "2007-10-12",
+      "stocks_kb": 304659.0,
+      "weekly_change_kb": 1784.0
+    },
+    {
+      "date": "2007-10-19",
+      "stocks_kb": 299371.0,
+      "weekly_change_kb": -5288.0
+    },
+    {
+      "date": "2007-10-26",
+      "stocks_kb": 295477.0,
+      "weekly_change_kb": -3894.0
+    },
+    {
+      "date": "2007-11-02",
+      "stocks_kb": 294517.0,
+      "weekly_change_kb": -960.0
+    },
+    {
+      "date": "2007-11-09",
+      "stocks_kb": 297331.0,
+      "weekly_change_kb": 2814.0
+    },
+    {
+      "date": "2007-11-16",
+      "stocks_kb": 296260.0,
+      "weekly_change_kb": -1071.0
+    },
+    {
+      "date": "2007-11-23",
+      "stocks_kb": 295808.0,
+      "weekly_change_kb": -452.0
+    },
+    {
+      "date": "2007-11-30",
+      "stocks_kb": 287895.0,
+      "weekly_change_kb": -7913.0
+    },
+    {
+      "date": "2007-12-07",
+      "stocks_kb": 286806.0,
+      "weekly_change_kb": -1089.0
+    },
+    {
+      "date": "2007-12-14",
+      "stocks_kb": 279220.0,
+      "weekly_change_kb": -7586.0
+    },
+    {
+      "date": "2007-12-21",
+      "stocks_kb": 275921.0,
+      "weekly_change_kb": -3299.0
+    },
+    {
+      "date": "2007-12-28",
+      "stocks_kb": 271865.0,
+      "weekly_change_kb": -4056.0
+    },
+    {
+      "date": "2008-01-04",
+      "stocks_kb": 265361.0,
+      "weekly_change_kb": -6504.0
+    },
+    {
+      "date": "2008-01-11",
+      "stocks_kb": 269620.0,
+      "weekly_change_kb": 4259.0
+    },
+    {
+      "date": "2008-01-18",
+      "stocks_kb": 271917.0,
+      "weekly_change_kb": 2297.0
+    },
+    {
+      "date": "2008-01-25",
+      "stocks_kb": 275472.0,
+      "weekly_change_kb": 3555.0
+    },
+    {
+      "date": "2008-02-01",
+      "stocks_kb": 282340.0,
+      "weekly_change_kb": 6868.0
+    },
+    {
+      "date": "2008-02-08",
+      "stocks_kb": 283406.0,
+      "weekly_change_kb": 1066.0
+    },
+    {
+      "date": "2008-02-15",
+      "stocks_kb": 287610.0,
+      "weekly_change_kb": 4204.0
+    },
+    {
+      "date": "2008-02-22",
+      "stocks_kb": 290841.0,
+      "weekly_change_kb": 3231.0
+    },
+    {
+      "date": "2008-02-29",
+      "stocks_kb": 287785.0,
+      "weekly_change_kb": -3056.0
+    },
+    {
+      "date": "2008-03-07",
+      "stocks_kb": 294185.0,
+      "weekly_change_kb": 6400.0
+    },
+    {
+      "date": "2008-03-14",
+      "stocks_kb": 294318.0,
+      "weekly_change_kb": 133.0
+    },
+    {
+      "date": "2008-03-21",
+      "stocks_kb": 294406.0,
+      "weekly_change_kb": 88.0
+    },
+    {
+      "date": "2008-03-28",
+      "stocks_kb": 301723.0,
+      "weekly_change_kb": 7317.0
+    },
+    {
+      "date": "2008-04-04",
+      "stocks_kb": 298516.0,
+      "weekly_change_kb": -3207.0
+    },
+    {
+      "date": "2008-04-11",
+      "stocks_kb": 296160.0,
+      "weekly_change_kb": -2356.0
+    },
+    {
+      "date": "2008-04-18",
+      "stocks_kb": 298581.0,
+      "weekly_change_kb": 2421.0
+    },
+    {
+      "date": "2008-04-25",
+      "stocks_kb": 302429.0,
+      "weekly_change_kb": 3848.0
+    },
+    {
+      "date": "2008-05-02",
+      "stocks_kb": 308082.0,
+      "weekly_change_kb": 5653.0
+    },
+    {
+      "date": "2008-05-09",
+      "stocks_kb": 308258.0,
+      "weekly_change_kb": 176.0
+    },
+    {
+      "date": "2008-05-16",
+      "stocks_kb": 302941.0,
+      "weekly_change_kb": -5317.0
+    },
+    {
+      "date": "2008-05-23",
+      "stocks_kb": 294058.0,
+      "weekly_change_kb": -8883.0
+    },
+    {
+      "date": "2008-05-30",
+      "stocks_kb": 289256.0,
+      "weekly_change_kb": -4802.0
+    },
+    {
+      "date": "2008-06-06",
+      "stocks_kb": 284679.0,
+      "weekly_change_kb": -4577.0
+    },
+    {
+      "date": "2008-06-13",
+      "stocks_kb": 283437.0,
+      "weekly_change_kb": -1242.0
+    },
+    {
+      "date": "2008-06-20",
+      "stocks_kb": 284240.0,
+      "weekly_change_kb": 803.0
+    },
+    {
+      "date": "2008-06-27",
+      "stocks_kb": 282258.0,
+      "weekly_change_kb": -1982.0
+    },
+    {
+      "date": "2008-07-04",
+      "stocks_kb": 276552.0,
+      "weekly_change_kb": -5706.0
+    },
+    {
+      "date": "2008-07-11",
+      "stocks_kb": 279504.0,
+      "weekly_change_kb": 2952.0
+    },
+    {
+      "date": "2008-07-18",
+      "stocks_kb": 277946.0,
+      "weekly_change_kb": -1558.0
+    },
+    {
+      "date": "2008-07-25",
+      "stocks_kb": 277865.0,
+      "weekly_change_kb": -81.0
+    },
+    {
+      "date": "2008-08-01",
+      "stocks_kb": 279363.0,
+      "weekly_change_kb": 1498.0
+    },
+    {
+      "date": "2008-08-08",
+      "stocks_kb": 279047.0,
+      "weekly_change_kb": -316.0
+    },
+    {
+      "date": "2008-08-15",
+      "stocks_kb": 288437.0,
+      "weekly_change_kb": 9390.0
+    },
+    {
+      "date": "2008-08-22",
+      "stocks_kb": 288260.0,
+      "weekly_change_kb": -177.0
+    },
+    {
+      "date": "2008-08-29",
+      "stocks_kb": 286362.0,
+      "weekly_change_kb": -1898.0
+    },
+    {
+      "date": "2008-09-05",
+      "stocks_kb": 280482.0,
+      "weekly_change_kb": -5880.0
+    },
+    {
+      "date": "2008-09-12",
+      "stocks_kb": 274154.0,
+      "weekly_change_kb": -6328.0
+    },
+    {
+      "date": "2008-09-19",
+      "stocks_kb": 272634.0,
+      "weekly_change_kb": -1520.0
+    },
+    {
+      "date": "2008-09-26",
+      "stocks_kb": 276912.0,
+      "weekly_change_kb": 4278.0
+    },
+    {
+      "date": "2008-10-03",
+      "stocks_kb": 285104.0,
+      "weekly_change_kb": 8192.0
+    },
+    {
+      "date": "2008-10-10",
+      "stocks_kb": 290715.0,
+      "weekly_change_kb": 5611.0
+    },
+    {
+      "date": "2008-10-17",
+      "stocks_kb": 293897.0,
+      "weekly_change_kb": 3182.0
+    },
+    {
+      "date": "2008-10-24",
+      "stocks_kb": 294390.0,
+      "weekly_change_kb": 493.0
+    },
+    {
+      "date": "2008-10-31",
+      "stocks_kb": 294444.0,
+      "weekly_change_kb": 54.0
+    },
+    {
+      "date": "2008-11-07",
+      "stocks_kb": 294394.0,
+      "weekly_change_kb": -50.0
+    },
+    {
+      "date": "2008-11-14",
+      "stocks_kb": 295993.0,
+      "weekly_change_kb": 1599.0
+    },
+    {
+      "date": "2008-11-21",
+      "stocks_kb": 303273.0,
+      "weekly_change_kb": 7280.0
+    },
+    {
+      "date": "2008-11-28",
+      "stocks_kb": 302817.0,
+      "weekly_change_kb": -456.0
+    },
+    {
+      "date": "2008-12-05",
+      "stocks_kb": 303169.0,
+      "weekly_change_kb": 352.0
+    },
+    {
+      "date": "2008-12-12",
+      "stocks_kb": 303694.0,
+      "weekly_change_kb": 525.0
+    },
+    {
+      "date": "2008-12-19",
+      "stocks_kb": 300593.0,
+      "weekly_change_kb": -3101.0
+    },
+    {
+      "date": "2008-12-26",
+      "stocks_kb": 301142.0,
+      "weekly_change_kb": 549.0
+    },
+    {
+      "date": "2009-01-02",
+      "stocks_kb": 307236.0,
+      "weekly_change_kb": 6094.0
+    },
+    {
+      "date": "2009-01-09",
+      "stocks_kb": 308380.0,
+      "weekly_change_kb": 1144.0
+    },
+    {
+      "date": "2009-01-16",
+      "stocks_kb": 314480.0,
+      "weekly_change_kb": 6100.0
+    },
+    {
+      "date": "2009-01-23",
+      "stocks_kb": 320698.0,
+      "weekly_change_kb": 6218.0
+    },
+    {
+      "date": "2009-01-30",
+      "stocks_kb": 327868.0,
+      "weekly_change_kb": 7170.0
+    },
+    {
+      "date": "2009-02-06",
+      "stocks_kb": 332487.0,
+      "weekly_change_kb": 4619.0
+    },
+    {
+      "date": "2009-02-13",
+      "stocks_kb": 332349.0,
+      "weekly_change_kb": -138.0
+    },
+    {
+      "date": "2009-02-20",
+      "stocks_kb": 333066.0,
+      "weekly_change_kb": 717.0
+    },
+    {
+      "date": "2009-02-27",
+      "stocks_kb": 332309.0,
+      "weekly_change_kb": -757.0
+    },
+    {
+      "date": "2009-03-06",
+      "stocks_kb": 332824.0,
+      "weekly_change_kb": 515.0
+    },
+    {
+      "date": "2009-03-13",
+      "stocks_kb": 334766.0,
+      "weekly_change_kb": 1942.0
+    },
+    {
+      "date": "2009-03-20",
+      "stocks_kb": 338068.0,
+      "weekly_change_kb": 3302.0
+    },
+    {
+      "date": "2009-03-27",
+      "stocks_kb": 340912.0,
+      "weekly_change_kb": 2844.0
+    },
+    {
+      "date": "2009-04-03",
+      "stocks_kb": 342328.0,
+      "weekly_change_kb": 1416.0
+    },
+    {
+      "date": "2009-04-10",
+      "stocks_kb": 347999.0,
+      "weekly_change_kb": 5671.0
+    },
+    {
+      "date": "2009-04-17",
+      "stocks_kb": 351856.0,
+      "weekly_change_kb": 3857.0
+    },
+    {
+      "date": "2009-04-24",
+      "stocks_kb": 355909.0,
+      "weekly_change_kb": 4053.0
+    },
+    {
+      "date": "2009-05-01",
+      "stocks_kb": 356863.0,
+      "weekly_change_kb": 954.0
+    },
+    {
+      "date": "2009-05-08",
+      "stocks_kb": 352234.0,
+      "weekly_change_kb": -4629.0
+    },
+    {
+      "date": "2009-05-15",
+      "stocks_kb": 350129.0,
+      "weekly_change_kb": -2105.0
+    },
+    {
+      "date": "2009-05-22",
+      "stocks_kb": 344716.0,
+      "weekly_change_kb": -5413.0
+    },
+    {
+      "date": "2009-05-29",
+      "stocks_kb": 347582.0,
+      "weekly_change_kb": 2866.0
+    },
+    {
+      "date": "2009-06-05",
+      "stocks_kb": 343186.0,
+      "weekly_change_kb": -4396.0
+    },
+    {
+      "date": "2009-06-12",
+      "stocks_kb": 339312.0,
+      "weekly_change_kb": -3874.0
+    },
+    {
+      "date": "2009-06-19",
+      "stocks_kb": 335444.0,
+      "weekly_change_kb": -3868.0
+    },
+    {
+      "date": "2009-06-26",
+      "stocks_kb": 331784.0,
+      "weekly_change_kb": -3660.0
+    },
+    {
+      "date": "2009-07-03",
+      "stocks_kb": 329083.0,
+      "weekly_change_kb": -2701.0
+    },
+    {
+      "date": "2009-07-10",
+      "stocks_kb": 326270.0,
+      "weekly_change_kb": -2813.0
+    },
+    {
+      "date": "2009-07-17",
+      "stocks_kb": 324474.0,
+      "weekly_change_kb": -1796.0
+    },
+    {
+      "date": "2009-07-24",
+      "stocks_kb": 329626.0,
+      "weekly_change_kb": 5152.0
+    },
+    {
+      "date": "2009-07-31",
+      "stocks_kb": 331296.0,
+      "weekly_change_kb": 1670.0
+    },
+    {
+      "date": "2009-08-07",
+      "stocks_kb": 333992.0,
+      "weekly_change_kb": 2696.0
+    },
+    {
+      "date": "2009-08-14",
+      "stocks_kb": 325595.0,
+      "weekly_change_kb": -8397.0
+    },
+    {
+      "date": "2009-08-21",
+      "stocks_kb": 325723.0,
+      "weekly_change_kb": 128.0
+    },
+    {
+      "date": "2009-08-28",
+      "stocks_kb": 325351.0,
+      "weekly_change_kb": -372.0
+    },
+    {
+      "date": "2009-09-04",
+      "stocks_kb": 319545.0,
+      "weekly_change_kb": -5806.0
+    },
+    {
+      "date": "2009-09-11",
+      "stocks_kb": 314816.0,
+      "weekly_change_kb": -4729.0
+    },
+    {
+      "date": "2009-09-18",
+      "stocks_kb": 317671.0,
+      "weekly_change_kb": 2855.0
+    },
+    {
+      "date": "2009-09-25",
+      "stocks_kb": 320467.0,
+      "weekly_change_kb": 2796.0
+    },
+    {
+      "date": "2009-10-02",
+      "stocks_kb": 319333.0,
+      "weekly_change_kb": -1134.0
+    },
+    {
+      "date": "2009-10-09",
+      "stocks_kb": 319667.0,
+      "weekly_change_kb": 334.0
+    },
+    {
+      "date": "2009-10-16",
+      "stocks_kb": 320979.0,
+      "weekly_change_kb": 1312.0
+    },
+    {
+      "date": "2009-10-23",
+      "stocks_kb": 321757.0,
+      "weekly_change_kb": 778.0
+    },
+    {
+      "date": "2009-10-30",
+      "stocks_kb": 317821.0,
+      "weekly_change_kb": -3936.0
+    },
+    {
+      "date": "2009-11-06",
+      "stocks_kb": 319609.0,
+      "weekly_change_kb": 1788.0
+    },
+    {
+      "date": "2009-11-13",
+      "stocks_kb": 318722.0,
+      "weekly_change_kb": -887.0
+    },
+    {
+      "date": "2009-11-20",
+      "stocks_kb": 319741.0,
+      "weekly_change_kb": 1019.0
+    },
+    {
+      "date": "2009-11-27",
+      "stocks_kb": 321832.0,
+      "weekly_change_kb": 2091.0
+    },
+    {
+      "date": "2009-12-04",
+      "stocks_kb": 318037.0,
+      "weekly_change_kb": -3795.0
+    },
+    {
+      "date": "2009-12-11",
+      "stocks_kb": 314348.0,
+      "weekly_change_kb": -3689.0
+    },
+    {
+      "date": "2009-12-18",
+      "stocks_kb": 309507.0,
+      "weekly_change_kb": -4841.0
+    },
+    {
+      "date": "2009-12-25",
+      "stocks_kb": 307969.0,
+      "weekly_change_kb": -1538.0
+    },
+    {
+      "date": "2010-01-01",
+      "stocks_kb": 306626.0,
+      "weekly_change_kb": -1343.0
+    },
+    {
+      "date": "2010-01-08",
+      "stocks_kb": 310325.0,
+      "weekly_change_kb": 3699.0
+    },
+    {
+      "date": "2010-01-15",
+      "stocks_kb": 309854.0,
+      "weekly_change_kb": -471.0
+    },
+    {
+      "date": "2010-01-22",
+      "stocks_kb": 305966.0,
+      "weekly_change_kb": -3888.0
+    },
+    {
+      "date": "2010-01-29",
+      "stocks_kb": 308283.0,
+      "weekly_change_kb": 2317.0
+    },
+    {
+      "date": "2010-02-05",
+      "stocks_kb": 310577.0,
+      "weekly_change_kb": 2294.0
+    },
+    {
+      "date": "2010-02-12",
+      "stocks_kb": 313662.0,
+      "weekly_change_kb": 3085.0
+    },
+    {
+      "date": "2010-02-19",
+      "stocks_kb": 316696.0,
+      "weekly_change_kb": 3034.0
+    },
+    {
+      "date": "2010-02-26",
+      "stocks_kb": 320730.0,
+      "weekly_change_kb": 4034.0
+    },
+    {
+      "date": "2010-03-05",
+      "stocks_kb": 322200.0,
+      "weekly_change_kb": 1470.0
+    },
+    {
+      "date": "2010-03-12",
+      "stocks_kb": 323212.0,
+      "weekly_change_kb": 1012.0
+    },
+    {
+      "date": "2010-03-19",
+      "stocks_kb": 330457.0,
+      "weekly_change_kb": 7245.0
+    },
+    {
+      "date": "2010-03-26",
+      "stocks_kb": 333386.0,
+      "weekly_change_kb": 2929.0
+    },
+    {
+      "date": "2010-04-02",
+      "stocks_kb": 335532.0,
+      "weekly_change_kb": 2146.0
+    },
+    {
+      "date": "2010-04-09",
+      "stocks_kb": 333330.0,
+      "weekly_change_kb": -2202.0
+    },
+    {
+      "date": "2010-04-16",
+      "stocks_kb": 335224.0,
+      "weekly_change_kb": 1894.0
+    },
+    {
+      "date": "2010-04-23",
+      "stocks_kb": 337187.0,
+      "weekly_change_kb": 1963.0
+    },
+    {
+      "date": "2010-04-30",
+      "stocks_kb": 339942.0,
+      "weekly_change_kb": 2755.0
+    },
+    {
+      "date": "2010-05-07",
+      "stocks_kb": 341861.0,
+      "weekly_change_kb": 1919.0
+    },
+    {
+      "date": "2010-05-14",
+      "stocks_kb": 342023.0,
+      "weekly_change_kb": 162.0
+    },
+    {
+      "date": "2010-05-21",
+      "stocks_kb": 344483.0,
+      "weekly_change_kb": 2460.0
+    },
+    {
+      "date": "2010-05-28",
+      "stocks_kb": 342581.0,
+      "weekly_change_kb": -1902.0
+    },
+    {
+      "date": "2010-06-04",
+      "stocks_kb": 340906.0,
+      "weekly_change_kb": -1675.0
+    },
+    {
+      "date": "2010-06-11",
+      "stocks_kb": 342596.0,
+      "weekly_change_kb": 1690.0
+    },
+    {
+      "date": "2010-06-18",
+      "stocks_kb": 344613.0,
+      "weekly_change_kb": 2017.0
+    },
+    {
+      "date": "2010-06-25",
+      "stocks_kb": 342606.0,
+      "weekly_change_kb": -2007.0
+    },
+    {
+      "date": "2010-07-02",
+      "stocks_kb": 337562.0,
+      "weekly_change_kb": -5044.0
+    },
+    {
+      "date": "2010-07-09",
+      "stocks_kb": 332504.0,
+      "weekly_change_kb": -5058.0
+    },
+    {
+      "date": "2010-07-16",
+      "stocks_kb": 332864.0,
+      "weekly_change_kb": 360.0
+    },
+    {
+      "date": "2010-07-23",
+      "stocks_kb": 340172.0,
+      "weekly_change_kb": 7308.0
+    },
+    {
+      "date": "2010-07-30",
+      "stocks_kb": 337388.0,
+      "weekly_change_kb": -2784.0
+    },
+    {
+      "date": "2010-08-06",
+      "stocks_kb": 334390.0,
+      "weekly_change_kb": -2998.0
+    },
+    {
+      "date": "2010-08-13",
+      "stocks_kb": 333572.0,
+      "weekly_change_kb": -818.0
+    },
+    {
+      "date": "2010-08-20",
+      "stocks_kb": 337680.0,
+      "weekly_change_kb": 4108.0
+    },
+    {
+      "date": "2010-08-27",
+      "stocks_kb": 341105.0,
+      "weekly_change_kb": 3425.0
+    },
+    {
+      "date": "2010-09-03",
+      "stocks_kb": 339337.0,
+      "weekly_change_kb": -1768.0
+    },
+    {
+      "date": "2010-09-10",
+      "stocks_kb": 336848.0,
+      "weekly_change_kb": -2489.0
+    },
+    {
+      "date": "2010-09-17",
+      "stocks_kb": 337818.0,
+      "weekly_change_kb": 970.0
+    },
+    {
+      "date": "2010-09-24",
+      "stocks_kb": 337343.0,
+      "weekly_change_kb": -475.0
+    },
+    {
+      "date": "2010-10-01",
+      "stocks_kb": 340186.0,
+      "weekly_change_kb": 2843.0
+    },
+    {
+      "date": "2010-10-08",
+      "stocks_kb": 339770.0,
+      "weekly_change_kb": -416.0
+    },
+    {
+      "date": "2010-10-15",
+      "stocks_kb": 340437.0,
+      "weekly_change_kb": 667.0
+    },
+    {
+      "date": "2010-10-22",
+      "stocks_kb": 345444.0,
+      "weekly_change_kb": 5007.0
+    },
+    {
+      "date": "2010-10-29",
+      "stocks_kb": 347394.0,
+      "weekly_change_kb": 1950.0
+    },
+    {
+      "date": "2010-11-05",
+      "stocks_kb": 343849.0,
+      "weekly_change_kb": -3545.0
+    },
+    {
+      "date": "2010-11-12",
+      "stocks_kb": 336563.0,
+      "weekly_change_kb": -7286.0
+    },
+    {
+      "date": "2010-11-19",
+      "stocks_kb": 337592.0,
+      "weekly_change_kb": 1029.0
+    },
+    {
+      "date": "2010-11-26",
+      "stocks_kb": 338658.0,
+      "weekly_change_kb": 1066.0
+    },
+    {
+      "date": "2010-12-03",
+      "stocks_kb": 334524.0,
+      "weekly_change_kb": -4134.0
+    },
+    {
+      "date": "2010-12-10",
+      "stocks_kb": 324670.0,
+      "weekly_change_kb": -9854.0
+    },
+    {
+      "date": "2010-12-17",
+      "stocks_kb": 319337.0,
+      "weekly_change_kb": -5333.0
+    },
+    {
+      "date": "2010-12-24",
+      "stocks_kb": 318079.0,
+      "weekly_change_kb": -1258.0
+    },
+    {
+      "date": "2010-12-31",
+      "stocks_kb": 313918.0,
+      "weekly_change_kb": -4161.0
+    },
+    {
+      "date": "2011-01-07",
+      "stocks_kb": 311526.0,
+      "weekly_change_kb": -2392.0
+    },
+    {
+      "date": "2011-01-14",
+      "stocks_kb": 314143.0,
+      "weekly_change_kb": 2617.0
+    },
+    {
+      "date": "2011-01-21",
+      "stocks_kb": 318979.0,
+      "weekly_change_kb": 4836.0
+    },
+    {
+      "date": "2011-01-28",
+      "stocks_kb": 321573.0,
+      "weekly_change_kb": 2594.0
+    },
+    {
+      "date": "2011-02-04",
+      "stocks_kb": 323404.0,
+      "weekly_change_kb": 1831.0
+    },
+    {
+      "date": "2011-02-11",
+      "stocks_kb": 324264.0,
+      "weekly_change_kb": 860.0
+    },
+    {
+      "date": "2011-02-18",
+      "stocks_kb": 325086.0,
+      "weekly_change_kb": 822.0
+    },
+    {
+      "date": "2011-02-25",
+      "stocks_kb": 324722.0,
+      "weekly_change_kb": -364.0
+    },
+    {
+      "date": "2011-03-04",
+      "stocks_kb": 327099.0,
+      "weekly_change_kb": 2377.0
+    },
+    {
+      "date": "2011-03-11",
+      "stocks_kb": 328844.0,
+      "weekly_change_kb": 1745.0
+    },
+    {
+      "date": "2011-03-18",
+      "stocks_kb": 330975.0,
+      "weekly_change_kb": 2131.0
+    },
+    {
+      "date": "2011-03-25",
+      "stocks_kb": 333920.0,
+      "weekly_change_kb": 2945.0
+    },
+    {
+      "date": "2011-04-01",
+      "stocks_kb": 335536.0,
+      "weekly_change_kb": 1616.0
+    },
+    {
+      "date": "2011-04-08",
+      "stocks_kb": 337163.0,
+      "weekly_change_kb": 1627.0
+    },
+    {
+      "date": "2011-04-15",
+      "stocks_kb": 334841.0,
+      "weekly_change_kb": -2322.0
+    },
+    {
+      "date": "2011-04-22",
+      "stocks_kb": 340997.0,
+      "weekly_change_kb": 6156.0
+    },
+    {
+      "date": "2011-04-29",
+      "stocks_kb": 344418.0,
+      "weekly_change_kb": 3421.0
+    },
+    {
+      "date": "2011-05-06",
+      "stocks_kb": 348050.0,
+      "weekly_change_kb": 3632.0
+    },
+    {
+      "date": "2011-05-13",
+      "stocks_kb": 348035.0,
+      "weekly_change_kb": -15.0
+    },
+    {
+      "date": "2011-05-20",
+      "stocks_kb": 348651.0,
+      "weekly_change_kb": 616.0
+    },
+    {
+      "date": "2011-05-27",
+      "stocks_kb": 351529.0,
+      "weekly_change_kb": 2878.0
+    },
+    {
+      "date": "2011-06-03",
+      "stocks_kb": 346897.0,
+      "weekly_change_kb": -4632.0
+    },
+    {
+      "date": "2011-06-10",
+      "stocks_kb": 343491.0,
+      "weekly_change_kb": -3406.0
+    },
+    {
+      "date": "2011-06-17",
+      "stocks_kb": 341780.0,
+      "weekly_change_kb": -1711.0
+    },
+    {
+      "date": "2011-06-24",
+      "stocks_kb": 337405.0,
+      "weekly_change_kb": -4375.0
+    },
+    {
+      "date": "2011-07-01",
+      "stocks_kb": 336532.0,
+      "weekly_change_kb": -873.0
+    },
+    {
+      "date": "2011-07-08",
+      "stocks_kb": 333408.0,
+      "weekly_change_kb": -3124.0
+    },
+    {
+      "date": "2011-07-15",
+      "stocks_kb": 329681.0,
+      "weekly_change_kb": -3727.0
+    },
+    {
+      "date": "2011-07-22",
+      "stocks_kb": 331977.0,
+      "weekly_change_kb": 2296.0
+    },
+    {
+      "date": "2011-07-29",
+      "stocks_kb": 332927.0,
+      "weekly_change_kb": 950.0
+    },
+    {
+      "date": "2011-08-05",
+      "stocks_kb": 327806.0,
+      "weekly_change_kb": -5121.0
+    },
+    {
+      "date": "2011-08-12",
+      "stocks_kb": 332039.0,
+      "weekly_change_kb": 4233.0
+    },
+    {
+      "date": "2011-08-19",
+      "stocks_kb": 329826.0,
+      "weekly_change_kb": -2213.0
+    },
+    {
+      "date": "2011-08-26",
+      "stocks_kb": 335107.0,
+      "weekly_change_kb": 5281.0
+    },
+    {
+      "date": "2011-09-02",
+      "stocks_kb": 331146.0,
+      "weekly_change_kb": -3961.0
+    },
+    {
+      "date": "2011-09-09",
+      "stocks_kb": 324442.0,
+      "weekly_change_kb": -6704.0
+    },
+    {
+      "date": "2011-09-16",
+      "stocks_kb": 317106.0,
+      "weekly_change_kb": -7336.0
+    },
+    {
+      "date": "2011-09-23",
+      "stocks_kb": 319021.0,
+      "weekly_change_kb": 1915.0
+    },
+    {
+      "date": "2011-09-30",
+      "stocks_kb": 314342.0,
+      "weekly_change_kb": -4679.0
+    },
+    {
+      "date": "2011-10-07",
+      "stocks_kb": 315575.0,
+      "weekly_change_kb": 1233.0
+    },
+    {
+      "date": "2011-10-14",
+      "stocks_kb": 310846.0,
+      "weekly_change_kb": -4729.0
+    },
+    {
+      "date": "2011-10-21",
+      "stocks_kb": 315581.0,
+      "weekly_change_kb": 4735.0
+    },
+    {
+      "date": "2011-10-28",
+      "stocks_kb": 317407.0,
+      "weekly_change_kb": 1826.0
+    },
+    {
+      "date": "2011-11-04",
+      "stocks_kb": 315819.0,
+      "weekly_change_kb": -1588.0
+    },
+    {
+      "date": "2011-11-11",
+      "stocks_kb": 314763.0,
+      "weekly_change_kb": -1056.0
+    },
+    {
+      "date": "2011-11-18",
+      "stocks_kb": 308544.0,
+      "weekly_change_kb": -6219.0
+    },
+    {
+      "date": "2011-11-25",
+      "stocks_kb": 312476.0,
+      "weekly_change_kb": 3932.0
+    },
+    {
+      "date": "2011-12-02",
+      "stocks_kb": 313625.0,
+      "weekly_change_kb": 1149.0
+    },
+    {
+      "date": "2011-12-09",
+      "stocks_kb": 311693.0,
+      "weekly_change_kb": -1932.0
+    },
+    {
+      "date": "2011-12-16",
+      "stocks_kb": 301123.0,
+      "weekly_change_kb": -10570.0
+    },
+    {
+      "date": "2011-12-23",
+      "stocks_kb": 305022.0,
+      "weekly_change_kb": 3899.0
+    },
+    {
+      "date": "2011-12-30",
+      "stocks_kb": 307231.0,
+      "weekly_change_kb": 2209.0
+    },
+    {
+      "date": "2012-01-06",
+      "stocks_kb": 309056.0,
+      "weekly_change_kb": 1825.0
+    },
+    {
+      "date": "2012-01-13",
+      "stocks_kb": 305618.0,
+      "weekly_change_kb": -3438.0
+    },
+    {
+      "date": "2012-01-20",
+      "stocks_kb": 309176.0,
+      "weekly_change_kb": 3558.0
+    },
+    {
+      "date": "2012-01-27",
+      "stocks_kb": 313351.0,
+      "weekly_change_kb": 4175.0
+    },
+    {
+      "date": "2012-02-03",
+      "stocks_kb": 313642.0,
+      "weekly_change_kb": 291.0
+    },
+    {
+      "date": "2012-02-10",
+      "stocks_kb": 313471.0,
+      "weekly_change_kb": -171.0
+    },
+    {
+      "date": "2012-02-17",
+      "stocks_kb": 315104.0,
+      "weekly_change_kb": 1633.0
+    },
+    {
+      "date": "2012-02-24",
+      "stocks_kb": 319264.0,
+      "weekly_change_kb": 4160.0
+    },
+    {
+      "date": "2012-03-02",
+      "stocks_kb": 320112.0,
+      "weekly_change_kb": 848.0
+    },
+    {
+      "date": "2012-03-09",
+      "stocks_kb": 321862.0,
+      "weekly_change_kb": 1750.0
+    },
+    {
+      "date": "2012-03-16",
+      "stocks_kb": 320700.0,
+      "weekly_change_kb": -1162.0
+    },
+    {
+      "date": "2012-03-23",
+      "stocks_kb": 327802.0,
+      "weekly_change_kb": 7102.0
+    },
+    {
+      "date": "2012-03-30",
+      "stocks_kb": 336811.0,
+      "weekly_change_kb": 9009.0
+    },
+    {
+      "date": "2012-04-06",
+      "stocks_kb": 339377.0,
+      "weekly_change_kb": 2566.0
+    },
+    {
+      "date": "2012-04-13",
+      "stocks_kb": 343233.0,
+      "weekly_change_kb": 3856.0
+    },
+    {
+      "date": "2012-04-20",
+      "stocks_kb": 347211.0,
+      "weekly_change_kb": 3978.0
+    },
+    {
+      "date": "2012-04-27",
+      "stocks_kb": 350051.0,
+      "weekly_change_kb": 2840.0
+    },
+    {
+      "date": "2012-05-04",
+      "stocks_kb": 355340.0,
+      "weekly_change_kb": 5289.0
+    },
+    {
+      "date": "2012-05-11",
+      "stocks_kb": 357468.0,
+      "weekly_change_kb": 2128.0
+    },
+    {
+      "date": "2012-05-18",
+      "stocks_kb": 358351.0,
+      "weekly_change_kb": 883.0
+    },
+    {
+      "date": "2012-05-25",
+      "stocks_kb": 360564.0,
+      "weekly_change_kb": 2213.0
+    },
+    {
+      "date": "2012-06-01",
+      "stocks_kb": 358801.0,
+      "weekly_change_kb": -1763.0
+    },
+    {
+      "date": "2012-06-08",
+      "stocks_kb": 358610.0,
+      "weekly_change_kb": -191.0
+    },
+    {
+      "date": "2012-06-15",
+      "stocks_kb": 361471.0,
+      "weekly_change_kb": 2861.0
+    },
+    {
+      "date": "2012-06-22",
+      "stocks_kb": 361338.0,
+      "weekly_change_kb": -133.0
+    },
+    {
+      "date": "2012-06-29",
+      "stocks_kb": 357068.0,
+      "weekly_change_kb": -4270.0
+    },
+    {
+      "date": "2012-07-06",
+      "stocks_kb": 352213.0,
+      "weekly_change_kb": -4855.0
+    },
+    {
+      "date": "2012-07-13",
+      "stocks_kb": 351404.0,
+      "weekly_change_kb": -809.0
+    },
+    {
+      "date": "2012-07-20",
+      "stocks_kb": 354121.0,
+      "weekly_change_kb": 2717.0
+    },
+    {
+      "date": "2012-07-27",
+      "stocks_kb": 347599.0,
+      "weekly_change_kb": -6522.0
+    },
+    {
+      "date": "2012-08-03",
+      "stocks_kb": 343824.0,
+      "weekly_change_kb": -3775.0
+    },
+    {
+      "date": "2012-08-10",
+      "stocks_kb": 340125.0,
+      "weekly_change_kb": -3699.0
+    },
+    {
+      "date": "2012-08-17",
+      "stocks_kb": 334713.0,
+      "weekly_change_kb": -5412.0
+    },
+    {
+      "date": "2012-08-24",
+      "stocks_kb": 338491.0,
+      "weekly_change_kb": 3778.0
+    },
+    {
+      "date": "2012-08-31",
+      "stocks_kb": 331065.0,
+      "weekly_change_kb": -7426.0
+    },
+    {
+      "date": "2012-09-07",
+      "stocks_kb": 332474.0,
+      "weekly_change_kb": 1409.0
+    },
+    {
+      "date": "2012-09-14",
+      "stocks_kb": 341008.0,
+      "weekly_change_kb": 8534.0
+    },
+    {
+      "date": "2012-09-21",
+      "stocks_kb": 338562.0,
+      "weekly_change_kb": -2446.0
+    },
+    {
+      "date": "2012-09-28",
+      "stocks_kb": 338080.0,
+      "weekly_change_kb": -482.0
+    },
+    {
+      "date": "2012-10-05",
+      "stocks_kb": 339592.0,
+      "weekly_change_kb": 1512.0
+    },
+    {
+      "date": "2012-10-12",
+      "stocks_kb": 342452.0,
+      "weekly_change_kb": 2860.0
+    },
+    {
+      "date": "2012-10-19",
+      "stocks_kb": 348348.0,
+      "weekly_change_kb": 5896.0
+    },
+    {
+      "date": "2012-10-26",
+      "stocks_kb": 346303.0,
+      "weekly_change_kb": -2045.0
+    },
+    {
+      "date": "2012-11-02",
+      "stocks_kb": 347850.0,
+      "weekly_change_kb": 1547.0
+    },
+    {
+      "date": "2012-11-09",
+      "stocks_kb": 348939.0,
+      "weekly_change_kb": 1089.0
+    },
+    {
+      "date": "2012-11-16",
+      "stocks_kb": 347473.0,
+      "weekly_change_kb": -1466.0
+    },
+    {
+      "date": "2012-11-23",
+      "stocks_kb": 347126.0,
+      "weekly_change_kb": -347.0
+    },
+    {
+      "date": "2012-11-30",
+      "stocks_kb": 344769.0,
+      "weekly_change_kb": -2357.0
+    },
+    {
+      "date": "2012-12-07",
+      "stocks_kb": 344909.0,
+      "weekly_change_kb": 140.0
+    },
+    {
+      "date": "2012-12-14",
+      "stocks_kb": 343945.0,
+      "weekly_change_kb": -964.0
+    },
+    {
+      "date": "2012-12-21",
+      "stocks_kb": 343359.0,
+      "weekly_change_kb": -586.0
+    },
+    {
+      "date": "2012-12-28",
+      "stocks_kb": 332239.0,
+      "weekly_change_kb": -11120.0
+    },
+    {
+      "date": "2013-01-04",
+      "stocks_kb": 333131.0,
+      "weekly_change_kb": 892.0
+    },
+    {
+      "date": "2013-01-11",
+      "stocks_kb": 332180.0,
+      "weekly_change_kb": -951.0
+    },
+    {
+      "date": "2013-01-18",
+      "stocks_kb": 334993.0,
+      "weekly_change_kb": 2813.0
+    },
+    {
+      "date": "2013-01-25",
+      "stocks_kb": 340940.0,
+      "weekly_change_kb": 5947.0
+    },
+    {
+      "date": "2013-02-01",
+      "stocks_kb": 343274.0,
+      "weekly_change_kb": 2334.0
+    },
+    {
+      "date": "2013-02-08",
+      "stocks_kb": 343834.0,
+      "weekly_change_kb": 560.0
+    },
+    {
+      "date": "2013-02-15",
+      "stocks_kb": 347977.0,
+      "weekly_change_kb": 4143.0
+    },
+    {
+      "date": "2013-02-22",
+      "stocks_kb": 349107.0,
+      "weekly_change_kb": 1130.0
+    },
+    {
+      "date": "2013-03-01",
+      "stocks_kb": 352843.0,
+      "weekly_change_kb": 3736.0
+    },
+    {
+      "date": "2013-03-08",
+      "stocks_kb": 355467.0,
+      "weekly_change_kb": 2624.0
+    },
+    {
+      "date": "2013-03-15",
+      "stocks_kb": 354153.0,
+      "weekly_change_kb": -1314.0
+    },
+    {
+      "date": "2013-03-22",
+      "stocks_kb": 357409.0,
+      "weekly_change_kb": 3256.0
+    },
+    {
+      "date": "2013-03-29",
+      "stocks_kb": 360116.0,
+      "weekly_change_kb": 2707.0
+    },
+    {
+      "date": "2013-04-05",
+      "stocks_kb": 359998.0,
+      "weekly_change_kb": -118.0
+    },
+    {
+      "date": "2013-04-12",
+      "stocks_kb": 358765.0,
+      "weekly_change_kb": -1233.0
+    },
+    {
+      "date": "2013-04-19",
+      "stocks_kb": 359712.0,
+      "weekly_change_kb": 947.0
+    },
+    {
+      "date": "2013-04-26",
+      "stocks_kb": 366408.0,
+      "weekly_change_kb": 6696.0
+    },
+    {
+      "date": "2013-05-03",
+      "stocks_kb": 366779.0,
+      "weekly_change_kb": 371.0
+    },
+    {
+      "date": "2013-05-10",
+      "stocks_kb": 366155.0,
+      "weekly_change_kb": -624.0
+    },
+    {
+      "date": "2013-05-17",
+      "stocks_kb": 365817.0,
+      "weekly_change_kb": -338.0
+    },
+    {
+      "date": "2013-05-24",
+      "stocks_kb": 368817.0,
+      "weekly_change_kb": 3000.0
+    },
+    {
+      "date": "2013-05-31",
+      "stocks_kb": 362550.0,
+      "weekly_change_kb": -6267.0
+    },
+    {
+      "date": "2013-06-07",
+      "stocks_kb": 365179.0,
+      "weekly_change_kb": 2629.0
+    },
+    {
+      "date": "2013-06-14",
+      "stocks_kb": 365492.0,
+      "weekly_change_kb": 313.0
+    },
+    {
+      "date": "2013-06-21",
+      "stocks_kb": 365510.0,
+      "weekly_change_kb": 18.0
+    },
+    {
+      "date": "2013-06-28",
+      "stocks_kb": 355163.0,
+      "weekly_change_kb": -10347.0
+    },
+    {
+      "date": "2013-07-05",
+      "stocks_kb": 345426.0,
+      "weekly_change_kb": -9737.0
+    },
+    {
+      "date": "2013-07-12",
+      "stocks_kb": 338524.0,
+      "weekly_change_kb": -6902.0
+    },
+    {
+      "date": "2013-07-19",
+      "stocks_kb": 335699.0,
+      "weekly_change_kb": -2825.0
+    },
+    {
+      "date": "2013-07-26",
+      "stocks_kb": 336130.0,
+      "weekly_change_kb": 431.0
+    },
+    {
+      "date": "2013-08-02",
+      "stocks_kb": 334699.0,
+      "weekly_change_kb": -1431.0
+    },
+    {
+      "date": "2013-08-09",
+      "stocks_kb": 331887.0,
+      "weekly_change_kb": -2812.0
+    },
+    {
+      "date": "2013-08-16",
+      "stocks_kb": 330459.0,
+      "weekly_change_kb": -1428.0
+    },
+    {
+      "date": "2013-08-23",
+      "stocks_kb": 333445.0,
+      "weekly_change_kb": 2986.0
+    },
+    {
+      "date": "2013-08-30",
+      "stocks_kb": 331609.0,
+      "weekly_change_kb": -1836.0
+    },
+    {
+      "date": "2013-09-06",
+      "stocks_kb": 330991.0,
+      "weekly_change_kb": -618.0
+    },
+    {
+      "date": "2013-09-13",
+      "stocks_kb": 326623.0,
+      "weekly_change_kb": -4368.0
+    },
+    {
+      "date": "2013-09-20",
+      "stocks_kb": 329258.0,
+      "weekly_change_kb": 2635.0
+    },
+    {
+      "date": "2013-09-27",
+      "stocks_kb": 334730.0,
+      "weekly_change_kb": 5472.0
+    },
+    {
+      "date": "2013-10-04",
+      "stocks_kb": 341474.0,
+      "weekly_change_kb": 6744.0
+    },
+    {
+      "date": "2013-10-11",
+      "stocks_kb": 345473.0,
+      "weekly_change_kb": 3999.0
+    },
+    {
+      "date": "2013-10-18",
+      "stocks_kb": 350719.0,
+      "weekly_change_kb": 5246.0
+    },
+    {
+      "date": "2013-10-25",
+      "stocks_kb": 354806.0,
+      "weekly_change_kb": 4087.0
+    },
+    {
+      "date": "2013-11-01",
+      "stocks_kb": 355995.0,
+      "weekly_change_kb": 1189.0
+    },
+    {
+      "date": "2013-11-08",
+      "stocks_kb": 358635.0,
+      "weekly_change_kb": 2640.0
+    },
+    {
+      "date": "2013-11-15",
+      "stocks_kb": 359010.0,
+      "weekly_change_kb": 375.0
+    },
+    {
+      "date": "2013-11-22",
+      "stocks_kb": 361963.0,
+      "weekly_change_kb": 2953.0
+    },
+    {
+      "date": "2013-11-29",
+      "stocks_kb": 356378.0,
+      "weekly_change_kb": -5585.0
+    },
+    {
+      "date": "2013-12-06",
+      "stocks_kb": 345374.0,
+      "weekly_change_kb": -11004.0
+    },
+    {
+      "date": "2013-12-13",
+      "stocks_kb": 342433.0,
+      "weekly_change_kb": -2941.0
+    },
+    {
+      "date": "2013-12-20",
+      "stocks_kb": 337702.0,
+      "weekly_change_kb": -4731.0
+    },
+    {
+      "date": "2013-12-27",
+      "stocks_kb": 330695.0,
+      "weekly_change_kb": -7007.0
+    },
+    {
+      "date": "2014-01-03",
+      "stocks_kb": 326737.0,
+      "weekly_change_kb": -3958.0
+    },
+    {
+      "date": "2014-01-10",
+      "stocks_kb": 319079.0,
+      "weekly_change_kb": -7658.0
+    },
+    {
+      "date": "2014-01-17",
+      "stocks_kb": 320069.0,
+      "weekly_change_kb": 990.0
+    },
+    {
+      "date": "2014-01-24",
+      "stocks_kb": 326490.0,
+      "weekly_change_kb": 6421.0
+    },
+    {
+      "date": "2014-01-31",
+      "stocks_kb": 326930.0,
+      "weekly_change_kb": 440.0
+    },
+    {
+      "date": "2014-02-07",
+      "stocks_kb": 329983.0,
+      "weekly_change_kb": 3053.0
+    },
+    {
+      "date": "2014-02-14",
+      "stocks_kb": 330956.0,
+      "weekly_change_kb": 973.0
+    },
+    {
+      "date": "2014-02-21",
+      "stocks_kb": 331024.0,
+      "weekly_change_kb": 68.0
+    },
+    {
+      "date": "2014-02-28",
+      "stocks_kb": 332453.0,
+      "weekly_change_kb": 1429.0
+    },
+    {
+      "date": "2014-03-07",
+      "stocks_kb": 338333.0,
+      "weekly_change_kb": 5880.0
+    },
+    {
+      "date": "2014-03-14",
+      "stocks_kb": 344183.0,
+      "weekly_change_kb": 5850.0
+    },
+    {
+      "date": "2014-03-21",
+      "stocks_kb": 350802.0,
+      "weekly_change_kb": 6619.0
+    },
+    {
+      "date": "2014-03-28",
+      "stocks_kb": 348423.0,
+      "weekly_change_kb": -2379.0
+    },
+    {
+      "date": "2014-04-04",
+      "stocks_kb": 352341.0,
+      "weekly_change_kb": 3918.0
+    },
+    {
+      "date": "2014-04-11",
+      "stocks_kb": 362354.0,
+      "weekly_change_kb": 10013.0
+    },
+    {
+      "date": "2014-04-18",
+      "stocks_kb": 365878.0,
+      "weekly_change_kb": 3524.0
+    },
+    {
+      "date": "2014-04-25",
+      "stocks_kb": 367576.0,
+      "weekly_change_kb": 1698.0
+    },
+    {
+      "date": "2014-05-02",
+      "stocks_kb": 366004.0,
+      "weekly_change_kb": -1572.0
+    },
+    {
+      "date": "2014-05-09",
+      "stocks_kb": 366951.0,
+      "weekly_change_kb": 947.0
+    },
+    {
+      "date": "2014-05-16",
+      "stocks_kb": 359725.0,
+      "weekly_change_kb": -7226.0
+    },
+    {
+      "date": "2014-05-23",
+      "stocks_kb": 361382.0,
+      "weekly_change_kb": 1657.0
+    },
+    {
+      "date": "2014-05-30",
+      "stocks_kb": 357951.0,
+      "weekly_change_kb": -3431.0
+    },
+    {
+      "date": "2014-06-06",
+      "stocks_kb": 355221.0,
+      "weekly_change_kb": -2730.0
+    },
+    {
+      "date": "2014-06-13",
+      "stocks_kb": 354642.0,
+      "weekly_change_kb": -579.0
+    },
+    {
+      "date": "2014-06-20",
+      "stocks_kb": 356384.0,
+      "weekly_change_kb": 1742.0
+    },
+    {
+      "date": "2014-06-27",
+      "stocks_kb": 353229.0,
+      "weekly_change_kb": -3155.0
+    },
+    {
+      "date": "2014-07-04",
+      "stocks_kb": 350822.0,
+      "weekly_change_kb": -2407.0
+    },
+    {
+      "date": "2014-07-11",
+      "stocks_kb": 343297.0,
+      "weekly_change_kb": -7525.0
+    },
+    {
+      "date": "2014-07-18",
+      "stocks_kb": 339328.0,
+      "weekly_change_kb": -3969.0
+    },
+    {
+      "date": "2014-07-25",
+      "stocks_kb": 335631.0,
+      "weekly_change_kb": -3697.0
+    },
+    {
+      "date": "2014-08-01",
+      "stocks_kb": 334167.0,
+      "weekly_change_kb": -1464.0
+    },
+    {
+      "date": "2014-08-08",
+      "stocks_kb": 335568.0,
+      "weekly_change_kb": 1401.0
+    },
+    {
+      "date": "2014-08-15",
+      "stocks_kb": 331094.0,
+      "weekly_change_kb": -4474.0
+    },
+    {
+      "date": "2014-08-22",
+      "stocks_kb": 329024.0,
+      "weekly_change_kb": -2070.0
+    },
+    {
+      "date": "2014-08-29",
+      "stocks_kb": 328119.0,
+      "weekly_change_kb": -905.0
+    },
+    {
+      "date": "2014-09-05",
+      "stocks_kb": 327428.0,
+      "weekly_change_kb": -691.0
+    },
+    {
+      "date": "2014-09-12",
+      "stocks_kb": 331101.0,
+      "weekly_change_kb": 3673.0
+    },
+    {
+      "date": "2014-09-19",
+      "stocks_kb": 326828.0,
+      "weekly_change_kb": -4273.0
+    },
+    {
+      "date": "2014-09-26",
+      "stocks_kb": 325465.0,
+      "weekly_change_kb": -1363.0
+    },
+    {
+      "date": "2014-10-03",
+      "stocks_kb": 330380.0,
+      "weekly_change_kb": 4915.0
+    },
+    {
+      "date": "2014-10-10",
+      "stocks_kb": 339303.0,
+      "weekly_change_kb": 8923.0
+    },
+    {
+      "date": "2014-10-17",
+      "stocks_kb": 346414.0,
+      "weekly_change_kb": 7111.0
+    },
+    {
+      "date": "2014-10-24",
+      "stocks_kb": 348475.0,
+      "weekly_change_kb": 2061.0
+    },
+    {
+      "date": "2014-10-31",
+      "stocks_kb": 348935.0,
+      "weekly_change_kb": 460.0
+    },
+    {
+      "date": "2014-11-07",
+      "stocks_kb": 346150.0,
+      "weekly_change_kb": -2785.0
+    },
+    {
+      "date": "2014-11-14",
+      "stocks_kb": 348758.0,
+      "weekly_change_kb": 2608.0
+    },
+    {
+      "date": "2014-11-21",
+      "stocks_kb": 350704.0,
+      "weekly_change_kb": 1946.0
+    },
+    {
+      "date": "2014-11-28",
+      "stocks_kb": 347015.0,
+      "weekly_change_kb": -3689.0
+    },
+    {
+      "date": "2014-12-05",
+      "stocks_kb": 348313.0,
+      "weekly_change_kb": 1298.0
+    },
+    {
+      "date": "2014-12-12",
+      "stocks_kb": 347466.0,
+      "weekly_change_kb": -847.0
+    },
+    {
+      "date": "2014-12-19",
+      "stocks_kb": 354733.0,
+      "weekly_change_kb": 7267.0
+    },
+    {
+      "date": "2014-12-26",
+      "stocks_kb": 352979.0,
+      "weekly_change_kb": -1754.0
+    },
+    {
+      "date": "2015-01-02",
+      "stocks_kb": 348806.0,
+      "weekly_change_kb": -4173.0
+    },
+    {
+      "date": "2015-01-09",
+      "stocks_kb": 354195.0,
+      "weekly_change_kb": 5389.0
+    },
+    {
+      "date": "2015-01-16",
+      "stocks_kb": 364266.0,
+      "weekly_change_kb": 10071.0
+    },
+    {
+      "date": "2015-01-23",
+      "stocks_kb": 373140.0,
+      "weekly_change_kb": 8874.0
+    },
+    {
+      "date": "2015-01-30",
+      "stocks_kb": 379473.0,
+      "weekly_change_kb": 6333.0
+    },
+    {
+      "date": "2015-02-06",
+      "stocks_kb": 383800.0,
+      "weekly_change_kb": 4327.0
+    },
+    {
+      "date": "2015-02-13",
+      "stocks_kb": 391516.0,
+      "weekly_change_kb": 7716.0
+    },
+    {
+      "date": "2015-02-20",
+      "stocks_kb": 399943.0,
+      "weekly_change_kb": 8427.0
+    },
+    {
+      "date": "2015-02-27",
+      "stocks_kb": 410246.0,
+      "weekly_change_kb": 10303.0
+    },
+    {
+      "date": "2015-03-06",
+      "stocks_kb": 415425.0,
+      "weekly_change_kb": 5179.0
+    },
+    {
+      "date": "2015-03-13",
+      "stocks_kb": 425047.0,
+      "weekly_change_kb": 9622.0
+    },
+    {
+      "date": "2015-03-20",
+      "stocks_kb": 433217.0,
+      "weekly_change_kb": 8170.0
+    },
+    {
+      "date": "2015-03-27",
+      "stocks_kb": 437983.0,
+      "weekly_change_kb": 4766.0
+    },
+    {
+      "date": "2015-04-03",
+      "stocks_kb": 449662.0,
+      "weekly_change_kb": 11679.0
+    },
+    {
+      "date": "2015-04-10",
+      "stocks_kb": 450956.0,
+      "weekly_change_kb": 1294.0
+    },
+    {
+      "date": "2015-04-17",
+      "stocks_kb": 456271.0,
+      "weekly_change_kb": 5315.0
+    },
+    {
+      "date": "2015-04-24",
+      "stocks_kb": 458181.0,
+      "weekly_change_kb": 1910.0
+    },
+    {
+      "date": "2015-05-01",
+      "stocks_kb": 454079.0,
+      "weekly_change_kb": -4102.0
+    },
+    {
+      "date": "2015-05-08",
+      "stocks_kb": 451888.0,
+      "weekly_change_kb": -2191.0
+    },
+    {
+      "date": "2015-05-15",
+      "stocks_kb": 449214.0,
+      "weekly_change_kb": -2674.0
+    },
+    {
+      "date": "2015-05-22",
+      "stocks_kb": 446412.0,
+      "weekly_change_kb": -2802.0
+    },
+    {
+      "date": "2015-05-29",
+      "stocks_kb": 444464.0,
+      "weekly_change_kb": -1948.0
+    },
+    {
+      "date": "2015-06-05",
+      "stocks_kb": 438447.0,
+      "weekly_change_kb": -6017.0
+    },
+    {
+      "date": "2015-06-12",
+      "stocks_kb": 435771.0,
+      "weekly_change_kb": -2676.0
+    },
+    {
+      "date": "2015-06-19",
+      "stocks_kb": 430837.0,
+      "weekly_change_kb": -4934.0
+    },
+    {
+      "date": "2015-06-26",
+      "stocks_kb": 433223.0,
+      "weekly_change_kb": 2386.0
+    },
+    {
+      "date": "2015-07-03",
+      "stocks_kb": 433714.0,
+      "weekly_change_kb": 491.0
+    },
+    {
+      "date": "2015-07-10",
+      "stocks_kb": 429368.0,
+      "weekly_change_kb": -4346.0
+    },
+    {
+      "date": "2015-07-17",
+      "stocks_kb": 431836.0,
+      "weekly_change_kb": 2468.0
+    },
+    {
+      "date": "2015-07-24",
+      "stocks_kb": 427633.0,
+      "weekly_change_kb": -4203.0
+    },
+    {
+      "date": "2015-07-31",
+      "stocks_kb": 423226.0,
+      "weekly_change_kb": -4407.0
+    },
+    {
+      "date": "2015-08-07",
+      "stocks_kb": 421822.0,
+      "weekly_change_kb": -1404.0
+    },
+    {
+      "date": "2015-08-14",
+      "stocks_kb": 424442.0,
+      "weekly_change_kb": 2620.0
+    },
+    {
+      "date": "2015-08-21",
+      "stocks_kb": 418990.0,
+      "weekly_change_kb": -5452.0
+    },
+    {
+      "date": "2015-08-28",
+      "stocks_kb": 423657.0,
+      "weekly_change_kb": 4667.0
+    },
+    {
+      "date": "2015-09-04",
+      "stocks_kb": 426062.0,
+      "weekly_change_kb": 2405.0
+    },
+    {
+      "date": "2015-09-11",
+      "stocks_kb": 423958.0,
+      "weekly_change_kb": -2104.0
+    },
+    {
+      "date": "2015-09-18",
+      "stocks_kb": 422033.0,
+      "weekly_change_kb": -1925.0
+    },
+    {
+      "date": "2015-09-25",
+      "stocks_kb": 425988.0,
+      "weekly_change_kb": 3955.0
+    },
+    {
+      "date": "2015-10-02",
+      "stocks_kb": 429028.0,
+      "weekly_change_kb": 3040.0
+    },
+    {
+      "date": "2015-10-09",
+      "stocks_kb": 436590.0,
+      "weekly_change_kb": 7562.0
+    },
+    {
+      "date": "2015-10-16",
+      "stocks_kb": 444618.0,
+      "weekly_change_kb": 8028.0
+    },
+    {
+      "date": "2015-10-23",
+      "stocks_kb": 447994.0,
+      "weekly_change_kb": 3376.0
+    },
+    {
+      "date": "2015-10-30",
+      "stocks_kb": 450841.0,
+      "weekly_change_kb": 2847.0
+    },
+    {
+      "date": "2015-11-06",
+      "stocks_kb": 454822.0,
+      "weekly_change_kb": 3981.0
+    },
+    {
+      "date": "2015-11-13",
+      "stocks_kb": 455074.0,
+      "weekly_change_kb": 252.0
+    },
+    {
+      "date": "2015-11-20",
+      "stocks_kb": 456035.0,
+      "weekly_change_kb": 961.0
+    },
+    {
+      "date": "2015-11-27",
+      "stocks_kb": 457212.0,
+      "weekly_change_kb": 1177.0
+    },
+    {
+      "date": "2015-12-04",
+      "stocks_kb": 453553.0,
+      "weekly_change_kb": -3659.0
+    },
+    {
+      "date": "2015-12-11",
+      "stocks_kb": 458354.0,
+      "weekly_change_kb": 4801.0
+    },
+    {
+      "date": "2015-12-18",
+      "stocks_kb": 452477.0,
+      "weekly_change_kb": -5877.0
+    },
+    {
+      "date": "2015-12-25",
+      "stocks_kb": 455106.0,
+      "weekly_change_kb": 2629.0
+    },
+    {
+      "date": "2016-01-01",
+      "stocks_kb": 450956.0,
+      "weekly_change_kb": -4150.0
+    },
+    {
+      "date": "2016-01-08",
+      "stocks_kb": 451190.0,
+      "weekly_change_kb": 234.0
+    },
+    {
+      "date": "2016-01-15",
+      "stocks_kb": 455169.0,
+      "weekly_change_kb": 3979.0
+    },
+    {
+      "date": "2016-01-22",
+      "stocks_kb": 463552.0,
+      "weekly_change_kb": 8383.0
+    },
+    {
+      "date": "2016-01-29",
+      "stocks_kb": 471344.0,
+      "weekly_change_kb": 7792.0
+    },
+    {
+      "date": "2016-02-05",
+      "stocks_kb": 470676.0,
+      "weekly_change_kb": -668.0
+    },
+    {
+      "date": "2016-02-12",
+      "stocks_kb": 472823.0,
+      "weekly_change_kb": 2147.0
+    },
+    {
+      "date": "2016-02-19",
+      "stocks_kb": 476325.0,
+      "weekly_change_kb": 3502.0
+    },
+    {
+      "date": "2016-02-26",
+      "stocks_kb": 486699.0,
+      "weekly_change_kb": 10374.0
+    },
+    {
+      "date": "2016-03-04",
+      "stocks_kb": 490843.0,
+      "weekly_change_kb": 4144.0
+    },
+    {
+      "date": "2016-03-11",
+      "stocks_kb": 492160.0,
+      "weekly_change_kb": 1317.0
+    },
+    {
+      "date": "2016-03-18",
+      "stocks_kb": 501517.0,
+      "weekly_change_kb": 9357.0
+    },
+    {
+      "date": "2016-03-25",
+      "stocks_kb": 503816.0,
+      "weekly_change_kb": 2299.0
+    },
+    {
+      "date": "2016-04-01",
+      "stocks_kb": 498598.0,
+      "weekly_change_kb": -5218.0
+    },
+    {
+      "date": "2016-04-08",
+      "stocks_kb": 505232.0,
+      "weekly_change_kb": 6634.0
+    },
+    {
+      "date": "2016-04-15",
+      "stocks_kb": 507312.0,
+      "weekly_change_kb": 2080.0
+    },
+    {
+      "date": "2016-04-22",
+      "stocks_kb": 509311.0,
+      "weekly_change_kb": 1999.0
+    },
+    {
+      "date": "2016-04-29",
+      "stocks_kb": 512095.0,
+      "weekly_change_kb": 2784.0
+    },
+    {
+      "date": "2016-05-06",
+      "stocks_kb": 508487.0,
+      "weekly_change_kb": -3608.0
+    },
+    {
+      "date": "2016-05-13",
+      "stocks_kb": 509797.0,
+      "weekly_change_kb": 1310.0
+    },
+    {
+      "date": "2016-05-20",
+      "stocks_kb": 505571.0,
+      "weekly_change_kb": -4226.0
+    },
+    {
+      "date": "2016-05-27",
+      "stocks_kb": 504205.0,
+      "weekly_change_kb": -1366.0
+    },
+    {
+      "date": "2016-06-03",
+      "stocks_kb": 501844.0,
+      "weekly_change_kb": -2361.0
+    },
+    {
+      "date": "2016-06-10",
+      "stocks_kb": 500911.0,
+      "weekly_change_kb": -933.0
+    },
+    {
+      "date": "2016-06-17",
+      "stocks_kb": 499994.0,
+      "weekly_change_kb": -917.0
+    },
+    {
+      "date": "2016-06-24",
+      "stocks_kb": 495941.0,
+      "weekly_change_kb": -4053.0
+    },
+    {
+      "date": "2016-07-01",
+      "stocks_kb": 493718.0,
+      "weekly_change_kb": -2223.0
+    },
+    {
+      "date": "2016-07-08",
+      "stocks_kb": 491172.0,
+      "weekly_change_kb": -2546.0
+    },
+    {
+      "date": "2016-07-15",
+      "stocks_kb": 488830.0,
+      "weekly_change_kb": -2342.0
+    },
+    {
+      "date": "2016-07-22",
+      "stocks_kb": 490501.0,
+      "weekly_change_kb": 1671.0
+    },
+    {
+      "date": "2016-07-29",
+      "stocks_kb": 491914.0,
+      "weekly_change_kb": 1413.0
+    },
+    {
+      "date": "2016-08-05",
+      "stocks_kb": 492969.0,
+      "weekly_change_kb": 1055.0
+    },
+    {
+      "date": "2016-08-12",
+      "stocks_kb": 490461.0,
+      "weekly_change_kb": -2508.0
+    },
+    {
+      "date": "2016-08-19",
+      "stocks_kb": 492962.0,
+      "weekly_change_kb": 2501.0
+    },
+    {
+      "date": "2016-08-26",
+      "stocks_kb": 495238.0,
+      "weekly_change_kb": 2276.0
+    },
+    {
+      "date": "2016-09-02",
+      "stocks_kb": 480725.0,
+      "weekly_change_kb": -14513.0
+    },
+    {
+      "date": "2016-09-09",
+      "stocks_kb": 480166.0,
+      "weekly_change_kb": -559.0
+    },
+    {
+      "date": "2016-09-16",
+      "stocks_kb": 473966.0,
+      "weekly_change_kb": -6200.0
+    },
+    {
+      "date": "2016-09-23",
+      "stocks_kb": 472084.0,
+      "weekly_change_kb": -1882.0
+    },
+    {
+      "date": "2016-09-30",
+      "stocks_kb": 469108.0,
+      "weekly_change_kb": -2976.0
+    },
+    {
+      "date": "2016-10-07",
+      "stocks_kb": 473958.0,
+      "weekly_change_kb": 4850.0
+    },
+    {
+      "date": "2016-10-14",
+      "stocks_kb": 468711.0,
+      "weekly_change_kb": -5247.0
+    },
+    {
+      "date": "2016-10-21",
+      "stocks_kb": 468158.0,
+      "weekly_change_kb": -553.0
+    },
+    {
+      "date": "2016-10-28",
+      "stocks_kb": 482578.0,
+      "weekly_change_kb": 14420.0
+    },
+    {
+      "date": "2016-11-04",
+      "stocks_kb": 485010.0,
+      "weekly_change_kb": 2432.0
+    },
+    {
+      "date": "2016-11-11",
+      "stocks_kb": 490284.0,
+      "weekly_change_kb": 5274.0
+    },
+    {
+      "date": "2016-11-18",
+      "stocks_kb": 489029.0,
+      "weekly_change_kb": -1255.0
+    },
+    {
+      "date": "2016-11-25",
+      "stocks_kb": 488145.0,
+      "weekly_change_kb": -884.0
+    },
+    {
+      "date": "2016-12-02",
+      "stocks_kb": 485756.0,
+      "weekly_change_kb": -2389.0
+    },
+    {
+      "date": "2016-12-09",
+      "stocks_kb": 483193.0,
+      "weekly_change_kb": -2563.0
+    },
+    {
+      "date": "2016-12-16",
+      "stocks_kb": 485449.0,
+      "weekly_change_kb": 2256.0
+    },
+    {
+      "date": "2016-12-23",
+      "stocks_kb": 486063.0,
+      "weekly_change_kb": 614.0
+    },
+    {
+      "date": "2016-12-30",
+      "stocks_kb": 479012.0,
+      "weekly_change_kb": -7051.0
+    },
+    {
+      "date": "2017-01-06",
+      "stocks_kb": 483109.0,
+      "weekly_change_kb": 4097.0
+    },
+    {
+      "date": "2017-01-13",
+      "stocks_kb": 485456.0,
+      "weekly_change_kb": 2347.0
+    },
+    {
+      "date": "2017-01-20",
+      "stocks_kb": 488296.0,
+      "weekly_change_kb": 2840.0
+    },
+    {
+      "date": "2017-01-27",
+      "stocks_kb": 494762.0,
+      "weekly_change_kb": 6466.0
+    },
+    {
+      "date": "2017-02-03",
+      "stocks_kb": 508592.0,
+      "weekly_change_kb": 13830.0
+    },
+    {
+      "date": "2017-02-10",
+      "stocks_kb": 518119.0,
+      "weekly_change_kb": 9527.0
+    },
+    {
+      "date": "2017-02-17",
+      "stocks_kb": 518683.0,
+      "weekly_change_kb": 564.0
+    },
+    {
+      "date": "2017-02-24",
+      "stocks_kb": 520184.0,
+      "weekly_change_kb": 1501.0
+    },
+    {
+      "date": "2017-03-03",
+      "stocks_kb": 528393.0,
+      "weekly_change_kb": 8209.0
+    },
+    {
+      "date": "2017-03-10",
+      "stocks_kb": 528156.0,
+      "weekly_change_kb": -237.0
+    },
+    {
+      "date": "2017-03-17",
+      "stocks_kb": 533110.0,
+      "weekly_change_kb": 4954.0
+    },
+    {
+      "date": "2017-03-24",
+      "stocks_kb": 533977.0,
+      "weekly_change_kb": 867.0
+    },
+    {
+      "date": "2017-03-31",
+      "stocks_kb": 535543.0,
+      "weekly_change_kb": 1566.0
+    },
+    {
+      "date": "2017-04-07",
+      "stocks_kb": 533377.0,
+      "weekly_change_kb": -2166.0
+    },
+    {
+      "date": "2017-04-14",
+      "stocks_kb": 532343.0,
+      "weekly_change_kb": -1034.0
+    },
+    {
+      "date": "2017-04-21",
+      "stocks_kb": 528702.0,
+      "weekly_change_kb": -3641.0
+    },
+    {
+      "date": "2017-04-28",
+      "stocks_kb": 527772.0,
+      "weekly_change_kb": -930.0
+    },
+    {
+      "date": "2017-05-05",
+      "stocks_kb": 522525.0,
+      "weekly_change_kb": -5247.0
+    },
+    {
+      "date": "2017-05-12",
+      "stocks_kb": 520772.0,
+      "weekly_change_kb": -1753.0
+    },
+    {
+      "date": "2017-05-19",
+      "stocks_kb": 516340.0,
+      "weekly_change_kb": -4432.0
+    },
+    {
+      "date": "2017-05-26",
+      "stocks_kb": 509912.0,
+      "weekly_change_kb": -6428.0
+    },
+    {
+      "date": "2017-06-02",
+      "stocks_kb": 513207.0,
+      "weekly_change_kb": 3295.0
+    },
+    {
+      "date": "2017-06-09",
+      "stocks_kb": 511546.0,
+      "weekly_change_kb": -1661.0
+    },
+    {
+      "date": "2017-06-16",
+      "stocks_kb": 509095.0,
+      "weekly_change_kb": -2451.0
+    },
+    {
+      "date": "2017-06-23",
+      "stocks_kb": 509213.0,
+      "weekly_change_kb": 118.0
+    },
+    {
+      "date": "2017-06-30",
+      "stocks_kb": 502914.0,
+      "weekly_change_kb": -6299.0
+    },
+    {
+      "date": "2017-07-07",
+      "stocks_kb": 495350.0,
+      "weekly_change_kb": -7564.0
+    },
+    {
+      "date": "2017-07-14",
+      "stocks_kb": 490623.0,
+      "weekly_change_kb": -4727.0
+    },
+    {
+      "date": "2017-07-21",
+      "stocks_kb": 483415.0,
+      "weekly_change_kb": -7208.0
+    },
+    {
+      "date": "2017-07-28",
+      "stocks_kb": 481888.0,
+      "weekly_change_kb": -1527.0
+    },
+    {
+      "date": "2017-08-04",
+      "stocks_kb": 475437.0,
+      "weekly_change_kb": -6451.0
+    },
+    {
+      "date": "2017-08-11",
+      "stocks_kb": 466492.0,
+      "weekly_change_kb": -8945.0
+    },
+    {
+      "date": "2017-08-18",
+      "stocks_kb": 463165.0,
+      "weekly_change_kb": -3327.0
+    },
+    {
+      "date": "2017-08-25",
+      "stocks_kb": 457773.0,
+      "weekly_change_kb": -5392.0
+    },
+    {
+      "date": "2017-09-01",
+      "stocks_kb": 462353.0,
+      "weekly_change_kb": 4580.0
+    },
+    {
+      "date": "2017-09-08",
+      "stocks_kb": 468241.0,
+      "weekly_change_kb": 5888.0
+    },
+    {
+      "date": "2017-09-15",
+      "stocks_kb": 472832.0,
+      "weekly_change_kb": 4591.0
+    },
+    {
+      "date": "2017-09-22",
+      "stocks_kb": 470986.0,
+      "weekly_change_kb": -1846.0
+    },
+    {
+      "date": "2017-09-29",
+      "stocks_kb": 464963.0,
+      "weekly_change_kb": -6023.0
+    },
+    {
+      "date": "2017-10-06",
+      "stocks_kb": 462216.0,
+      "weekly_change_kb": -2747.0
+    },
+    {
+      "date": "2017-10-13",
+      "stocks_kb": 456485.0,
+      "weekly_change_kb": -5731.0
+    },
+    {
+      "date": "2017-10-20",
+      "stocks_kb": 457341.0,
+      "weekly_change_kb": 856.0
+    },
+    {
+      "date": "2017-10-27",
+      "stocks_kb": 454906.0,
+      "weekly_change_kb": -2435.0
+    },
+    {
+      "date": "2017-11-03",
+      "stocks_kb": 457143.0,
+      "weekly_change_kb": 2237.0
+    },
+    {
+      "date": "2017-11-10",
+      "stocks_kb": 458997.0,
+      "weekly_change_kb": 1854.0
+    },
+    {
+      "date": "2017-11-17",
+      "stocks_kb": 457142.0,
+      "weekly_change_kb": -1855.0
+    },
+    {
+      "date": "2017-11-24",
+      "stocks_kb": 453713.0,
+      "weekly_change_kb": -3429.0
+    },
+    {
+      "date": "2017-12-01",
+      "stocks_kb": 448103.0,
+      "weekly_change_kb": -5610.0
+    },
+    {
+      "date": "2017-12-08",
+      "stocks_kb": 442986.0,
+      "weekly_change_kb": -5117.0
+    },
+    {
+      "date": "2017-12-15",
+      "stocks_kb": 436491.0,
+      "weekly_change_kb": -6495.0
+    },
+    {
+      "date": "2017-12-22",
+      "stocks_kb": 431882.0,
+      "weekly_change_kb": -4609.0
+    },
+    {
+      "date": "2017-12-29",
+      "stocks_kb": 424463.0,
+      "weekly_change_kb": -7419.0
+    },
+    {
+      "date": "2018-01-05",
+      "stocks_kb": 419515.0,
+      "weekly_change_kb": -4948.0
+    },
+    {
+      "date": "2018-01-12",
+      "stocks_kb": 412654.0,
+      "weekly_change_kb": -6861.0
+    },
+    {
+      "date": "2018-01-19",
+      "stocks_kb": 411583.0,
+      "weekly_change_kb": -1071.0
+    },
+    {
+      "date": "2018-01-26",
+      "stocks_kb": 418359.0,
+      "weekly_change_kb": 6776.0
+    },
+    {
+      "date": "2018-02-02",
+      "stocks_kb": 420254.0,
+      "weekly_change_kb": 1895.0
+    },
+    {
+      "date": "2018-02-09",
+      "stocks_kb": 422095.0,
+      "weekly_change_kb": 1841.0
+    },
+    {
+      "date": "2018-02-16",
+      "stocks_kb": 420479.0,
+      "weekly_change_kb": -1616.0
+    },
+    {
+      "date": "2018-02-23",
+      "stocks_kb": 423498.0,
+      "weekly_change_kb": 3019.0
+    },
+    {
+      "date": "2018-03-02",
+      "stocks_kb": 425906.0,
+      "weekly_change_kb": 2408.0
+    },
+    {
+      "date": "2018-03-09",
+      "stocks_kb": 430928.0,
+      "weekly_change_kb": 5022.0
+    },
+    {
+      "date": "2018-03-16",
+      "stocks_kb": 428306.0,
+      "weekly_change_kb": -2622.0
+    },
+    {
+      "date": "2018-03-23",
+      "stocks_kb": 429949.0,
+      "weekly_change_kb": 1643.0
+    },
+    {
+      "date": "2018-03-30",
+      "stocks_kb": 425332.0,
+      "weekly_change_kb": -4617.0
+    },
+    {
+      "date": "2018-04-06",
+      "stocks_kb": 428638.0,
+      "weekly_change_kb": 3306.0
+    },
+    {
+      "date": "2018-04-13",
+      "stocks_kb": 427567.0,
+      "weekly_change_kb": -1071.0
+    },
+    {
+      "date": "2018-04-20",
+      "stocks_kb": 429737.0,
+      "weekly_change_kb": 2170.0
+    },
+    {
+      "date": "2018-04-27",
+      "stocks_kb": 435955.0,
+      "weekly_change_kb": 6218.0
+    },
+    {
+      "date": "2018-05-04",
+      "stocks_kb": 433758.0,
+      "weekly_change_kb": -2197.0
+    },
+    {
+      "date": "2018-05-11",
+      "stocks_kb": 432354.0,
+      "weekly_change_kb": -1404.0
+    },
+    {
+      "date": "2018-05-18",
+      "stocks_kb": 438132.0,
+      "weekly_change_kb": 5778.0
+    },
+    {
+      "date": "2018-05-25",
+      "stocks_kb": 434512.0,
+      "weekly_change_kb": -3620.0
+    },
+    {
+      "date": "2018-06-01",
+      "stocks_kb": 436584.0,
+      "weekly_change_kb": 2072.0
+    },
+    {
+      "date": "2018-06-08",
+      "stocks_kb": 432441.0,
+      "weekly_change_kb": -4143.0
+    },
+    {
+      "date": "2018-06-15",
+      "stocks_kb": 426527.0,
+      "weekly_change_kb": -5914.0
+    },
+    {
+      "date": "2018-06-22",
+      "stocks_kb": 416636.0,
+      "weekly_change_kb": -9891.0
+    },
+    {
+      "date": "2018-06-29",
+      "stocks_kb": 417881.0,
+      "weekly_change_kb": 1245.0
+    },
+    {
+      "date": "2018-07-06",
+      "stocks_kb": 405248.0,
+      "weekly_change_kb": -12633.0
+    },
+    {
+      "date": "2018-07-13",
+      "stocks_kb": 411084.0,
+      "weekly_change_kb": 5836.0
+    },
+    {
+      "date": "2018-07-20",
+      "stocks_kb": 404937.0,
+      "weekly_change_kb": -6147.0
+    },
+    {
+      "date": "2018-07-27",
+      "stocks_kb": 408740.0,
+      "weekly_change_kb": 3803.0
+    },
+    {
+      "date": "2018-08-03",
+      "stocks_kb": 407389.0,
+      "weekly_change_kb": -1351.0
+    },
+    {
+      "date": "2018-08-10",
+      "stocks_kb": 414194.0,
+      "weekly_change_kb": 6805.0
+    },
+    {
+      "date": "2018-08-17",
+      "stocks_kb": 408358.0,
+      "weekly_change_kb": -5836.0
+    },
+    {
+      "date": "2018-08-24",
+      "stocks_kb": 405792.0,
+      "weekly_change_kb": -2566.0
+    },
+    {
+      "date": "2018-08-31",
+      "stocks_kb": 401490.0,
+      "weekly_change_kb": -4302.0
+    },
+    {
+      "date": "2018-09-07",
+      "stocks_kb": 396194.0,
+      "weekly_change_kb": -5296.0
+    },
+    {
+      "date": "2018-09-14",
+      "stocks_kb": 394137.0,
+      "weekly_change_kb": -2057.0
+    },
+    {
+      "date": "2018-09-21",
+      "stocks_kb": 395989.0,
+      "weekly_change_kb": 1852.0
+    },
+    {
+      "date": "2018-09-28",
+      "stocks_kb": 403964.0,
+      "weekly_change_kb": 7975.0
+    },
+    {
+      "date": "2018-10-05",
+      "stocks_kb": 409951.0,
+      "weekly_change_kb": 5987.0
+    },
+    {
+      "date": "2018-10-12",
+      "stocks_kb": 416441.0,
+      "weekly_change_kb": 6490.0
+    },
+    {
+      "date": "2018-10-19",
+      "stocks_kb": 422787.0,
+      "weekly_change_kb": 6346.0
+    },
+    {
+      "date": "2018-10-26",
+      "stocks_kb": 426004.0,
+      "weekly_change_kb": 3217.0
+    },
+    {
+      "date": "2018-11-02",
+      "stocks_kb": 431787.0,
+      "weekly_change_kb": 5783.0
+    },
+    {
+      "date": "2018-11-09",
+      "stocks_kb": 442057.0,
+      "weekly_change_kb": 10270.0
+    },
+    {
+      "date": "2018-11-16",
+      "stocks_kb": 446908.0,
+      "weekly_change_kb": 4851.0
+    },
+    {
+      "date": "2018-11-23",
+      "stocks_kb": 450485.0,
+      "weekly_change_kb": 3577.0
+    },
+    {
+      "date": "2018-11-30",
+      "stocks_kb": 443162.0,
+      "weekly_change_kb": -7323.0
+    },
+    {
+      "date": "2018-12-07",
+      "stocks_kb": 441954.0,
+      "weekly_change_kb": -1208.0
+    },
+    {
+      "date": "2018-12-14",
+      "stocks_kb": 441457.0,
+      "weekly_change_kb": -497.0
+    },
+    {
+      "date": "2018-12-21",
+      "stocks_kb": 441411.0,
+      "weekly_change_kb": -46.0
+    },
+    {
+      "date": "2018-12-28",
+      "stocks_kb": 441418.0,
+      "weekly_change_kb": 7.0
+    },
+    {
+      "date": "2019-01-04",
+      "stocks_kb": 439738.0,
+      "weekly_change_kb": -1680.0
+    },
+    {
+      "date": "2019-01-11",
+      "stocks_kb": 437055.0,
+      "weekly_change_kb": -2683.0
+    },
+    {
+      "date": "2019-01-18",
+      "stocks_kb": 445025.0,
+      "weekly_change_kb": 7970.0
+    },
+    {
+      "date": "2019-01-25",
+      "stocks_kb": 445944.0,
+      "weekly_change_kb": 919.0
+    },
+    {
+      "date": "2019-02-01",
+      "stocks_kb": 447207.0,
+      "weekly_change_kb": 1263.0
+    },
+    {
+      "date": "2019-02-08",
+      "stocks_kb": 450840.0,
+      "weekly_change_kb": 3633.0
+    },
+    {
+      "date": "2019-02-15",
+      "stocks_kb": 454512.0,
+      "weekly_change_kb": 3672.0
+    },
+    {
+      "date": "2019-02-22",
+      "stocks_kb": 445865.0,
+      "weekly_change_kb": -8647.0
+    },
+    {
+      "date": "2019-03-01",
+      "stocks_kb": 452934.0,
+      "weekly_change_kb": 7069.0
+    },
+    {
+      "date": "2019-03-08",
+      "stocks_kb": 449072.0,
+      "weekly_change_kb": -3862.0
+    },
+    {
+      "date": "2019-03-15",
+      "stocks_kb": 439483.0,
+      "weekly_change_kb": -9589.0
+    },
+    {
+      "date": "2019-03-22",
+      "stocks_kb": 442283.0,
+      "weekly_change_kb": 2800.0
+    },
+    {
+      "date": "2019-03-29",
+      "stocks_kb": 449521.0,
+      "weekly_change_kb": 7238.0
+    },
+    {
+      "date": "2019-04-05",
+      "stocks_kb": 456550.0,
+      "weekly_change_kb": 7029.0
+    },
+    {
+      "date": "2019-04-12",
+      "stocks_kb": 455154.0,
+      "weekly_change_kb": -1396.0
+    },
+    {
+      "date": "2019-04-19",
+      "stocks_kb": 460633.0,
+      "weekly_change_kb": 5479.0
+    },
+    {
+      "date": "2019-04-26",
+      "stocks_kb": 470567.0,
+      "weekly_change_kb": 9934.0
+    },
+    {
+      "date": "2019-05-03",
+      "stocks_kb": 466604.0,
+      "weekly_change_kb": -3963.0
+    },
+    {
+      "date": "2019-05-10",
+      "stocks_kb": 472035.0,
+      "weekly_change_kb": 5431.0
+    },
+    {
+      "date": "2019-05-17",
+      "stocks_kb": 476775.0,
+      "weekly_change_kb": 4740.0
+    },
+    {
+      "date": "2019-05-24",
+      "stocks_kb": 476493.0,
+      "weekly_change_kb": -282.0
+    },
+    {
+      "date": "2019-05-31",
+      "stocks_kb": 483264.0,
+      "weekly_change_kb": 6771.0
+    },
+    {
+      "date": "2019-06-07",
+      "stocks_kb": 485470.0,
+      "weekly_change_kb": 2206.0
+    },
+    {
+      "date": "2019-06-14",
+      "stocks_kb": 482364.0,
+      "weekly_change_kb": -3106.0
+    },
+    {
+      "date": "2019-06-21",
+      "stocks_kb": 469576.0,
+      "weekly_change_kb": -12788.0
+    },
+    {
+      "date": "2019-06-28",
+      "stocks_kb": 468491.0,
+      "weekly_change_kb": -1085.0
+    },
+    {
+      "date": "2019-07-05",
+      "stocks_kb": 458992.0,
+      "weekly_change_kb": -9499.0
+    },
+    {
+      "date": "2019-07-12",
+      "stocks_kb": 455876.0,
+      "weekly_change_kb": -3116.0
+    },
+    {
+      "date": "2019-07-19",
+      "stocks_kb": 445041.0,
+      "weekly_change_kb": -10835.0
+    },
+    {
+      "date": "2019-07-26",
+      "stocks_kb": 436545.0,
+      "weekly_change_kb": -8496.0
+    },
+    {
+      "date": "2019-08-02",
+      "stocks_kb": 438930.0,
+      "weekly_change_kb": 2385.0
+    },
+    {
+      "date": "2019-08-09",
+      "stocks_kb": 440510.0,
+      "weekly_change_kb": 1580.0
+    },
+    {
+      "date": "2019-08-16",
+      "stocks_kb": 437778.0,
+      "weekly_change_kb": -2732.0
+    },
+    {
+      "date": "2019-08-23",
+      "stocks_kb": 427751.0,
+      "weekly_change_kb": -10027.0
+    },
+    {
+      "date": "2019-08-30",
+      "stocks_kb": 422980.0,
+      "weekly_change_kb": -4771.0
+    },
+    {
+      "date": "2019-09-06",
+      "stocks_kb": 416068.0,
+      "weekly_change_kb": -6912.0
+    },
+    {
+      "date": "2019-09-13",
+      "stocks_kb": 417126.0,
+      "weekly_change_kb": 1058.0
+    },
+    {
+      "date": "2019-09-20",
+      "stocks_kb": 419538.0,
+      "weekly_change_kb": 2412.0
+    },
+    {
+      "date": "2019-09-27",
+      "stocks_kb": 422642.0,
+      "weekly_change_kb": 3104.0
+    },
+    {
+      "date": "2019-10-04",
+      "stocks_kb": 425569.0,
+      "weekly_change_kb": 2927.0
+    },
+    {
+      "date": "2019-10-11",
+      "stocks_kb": 434850.0,
+      "weekly_change_kb": 9281.0
+    },
+    {
+      "date": "2019-10-18",
+      "stocks_kb": 433151.0,
+      "weekly_change_kb": -1699.0
+    },
+    {
+      "date": "2019-10-25",
+      "stocks_kb": 438853.0,
+      "weekly_change_kb": 5702.0
+    },
+    {
+      "date": "2019-11-01",
+      "stocks_kb": 446782.0,
+      "weekly_change_kb": 7929.0
+    },
+    {
+      "date": "2019-11-08",
+      "stocks_kb": 449001.0,
+      "weekly_change_kb": 2219.0
+    },
+    {
+      "date": "2019-11-15",
+      "stocks_kb": 450380.0,
+      "weekly_change_kb": 1379.0
+    },
+    {
+      "date": "2019-11-22",
+      "stocks_kb": 451952.0,
+      "weekly_change_kb": 1572.0
+    },
+    {
+      "date": "2019-11-29",
+      "stocks_kb": 447096.0,
+      "weekly_change_kb": -4856.0
+    },
+    {
+      "date": "2019-12-06",
+      "stocks_kb": 447918.0,
+      "weekly_change_kb": 822.0
+    },
+    {
+      "date": "2019-12-13",
+      "stocks_kb": 446833.0,
+      "weekly_change_kb": -1085.0
+    },
+    {
+      "date": "2019-12-20",
+      "stocks_kb": 441359.0,
+      "weekly_change_kb": -5474.0
+    },
+    {
+      "date": "2019-12-27",
+      "stocks_kb": 429896.0,
+      "weekly_change_kb": -11463.0
+    },
+    {
+      "date": "2020-01-03",
+      "stocks_kb": 431060.0,
+      "weekly_change_kb": 1164.0
+    },
+    {
+      "date": "2020-01-10",
+      "stocks_kb": 428511.0,
+      "weekly_change_kb": -2549.0
+    },
+    {
+      "date": "2020-01-17",
+      "stocks_kb": 428106.0,
+      "weekly_change_kb": -405.0
+    },
+    {
+      "date": "2020-01-24",
+      "stocks_kb": 431654.0,
+      "weekly_change_kb": 3548.0
+    },
+    {
+      "date": "2020-01-31",
+      "stocks_kb": 435009.0,
+      "weekly_change_kb": 3355.0
+    },
+    {
+      "date": "2020-02-07",
+      "stocks_kb": 442468.0,
+      "weekly_change_kb": 7459.0
+    },
+    {
+      "date": "2020-02-14",
+      "stocks_kb": 442883.0,
+      "weekly_change_kb": 415.0
+    },
+    {
+      "date": "2020-02-21",
+      "stocks_kb": 443335.0,
+      "weekly_change_kb": 452.0
+    },
+    {
+      "date": "2020-02-28",
+      "stocks_kb": 444119.0,
+      "weekly_change_kb": 784.0
+    },
+    {
+      "date": "2020-03-06",
+      "stocks_kb": 451783.0,
+      "weekly_change_kb": 7664.0
+    },
+    {
+      "date": "2020-03-13",
+      "stocks_kb": 453737.0,
+      "weekly_change_kb": 1954.0
+    },
+    {
+      "date": "2020-03-20",
+      "stocks_kb": 455360.0,
+      "weekly_change_kb": 1623.0
+    },
+    {
+      "date": "2020-03-27",
+      "stocks_kb": 469193.0,
+      "weekly_change_kb": 13833.0
+    },
+    {
+      "date": "2020-04-03",
+      "stocks_kb": 484370.0,
+      "weekly_change_kb": 15177.0
+    },
+    {
+      "date": "2020-04-10",
+      "stocks_kb": 503618.0,
+      "weekly_change_kb": 19248.0
+    },
+    {
+      "date": "2020-04-17",
+      "stocks_kb": 518640.0,
+      "weekly_change_kb": 15022.0
+    },
+    {
+      "date": "2020-04-24",
+      "stocks_kb": 527631.0,
+      "weekly_change_kb": 8991.0
+    },
+    {
+      "date": "2020-05-01",
+      "stocks_kb": 532221.0,
+      "weekly_change_kb": 4590.0
+    },
+    {
+      "date": "2020-05-08",
+      "stocks_kb": 531476.0,
+      "weekly_change_kb": -745.0
+    },
+    {
+      "date": "2020-05-15",
+      "stocks_kb": 526494.0,
+      "weekly_change_kb": -4982.0
+    },
+    {
+      "date": "2020-05-22",
+      "stocks_kb": 534422.0,
+      "weekly_change_kb": 7928.0
+    },
+    {
+      "date": "2020-05-29",
+      "stocks_kb": 532345.0,
+      "weekly_change_kb": -2077.0
+    },
+    {
+      "date": "2020-06-05",
+      "stocks_kb": 538065.0,
+      "weekly_change_kb": 5720.0
+    },
+    {
+      "date": "2020-06-12",
+      "stocks_kb": 539280.0,
+      "weekly_change_kb": 1215.0
+    },
+    {
+      "date": "2020-06-19",
+      "stocks_kb": 540722.0,
+      "weekly_change_kb": 1442.0
+    },
+    {
+      "date": "2020-06-26",
+      "stocks_kb": 533527.0,
+      "weekly_change_kb": -7195.0
+    },
+    {
+      "date": "2020-07-03",
+      "stocks_kb": 539181.0,
+      "weekly_change_kb": 5654.0
+    },
+    {
+      "date": "2020-07-10",
+      "stocks_kb": 531688.0,
+      "weekly_change_kb": -7493.0
+    },
+    {
+      "date": "2020-07-17",
+      "stocks_kb": 536580.0,
+      "weekly_change_kb": 4892.0
+    },
+    {
+      "date": "2020-07-24",
+      "stocks_kb": 525969.0,
+      "weekly_change_kb": -10611.0
+    },
+    {
+      "date": "2020-07-31",
+      "stocks_kb": 518596.0,
+      "weekly_change_kb": -7373.0
+    },
+    {
+      "date": "2020-08-07",
+      "stocks_kb": 514084.0,
+      "weekly_change_kb": -4512.0
+    },
+    {
+      "date": "2020-08-14",
+      "stocks_kb": 512452.0,
+      "weekly_change_kb": -1632.0
+    },
+    {
+      "date": "2020-08-21",
+      "stocks_kb": 507763.0,
+      "weekly_change_kb": -4689.0
+    },
+    {
+      "date": "2020-08-28",
+      "stocks_kb": 498401.0,
+      "weekly_change_kb": -9362.0
+    },
+    {
+      "date": "2020-09-04",
+      "stocks_kb": 500434.0,
+      "weekly_change_kb": 2033.0
+    },
+    {
+      "date": "2020-09-11",
+      "stocks_kb": 496045.0,
+      "weekly_change_kb": -4389.0
+    },
+    {
+      "date": "2020-09-18",
+      "stocks_kb": 494406.0,
+      "weekly_change_kb": -1639.0
+    },
+    {
+      "date": "2020-09-25",
+      "stocks_kb": 492426.0,
+      "weekly_change_kb": -1980.0
+    },
+    {
+      "date": "2020-10-02",
+      "stocks_kb": 492927.0,
+      "weekly_change_kb": 501.0
+    },
+    {
+      "date": "2020-10-09",
+      "stocks_kb": 489109.0,
+      "weekly_change_kb": -3818.0
+    },
+    {
+      "date": "2020-10-16",
+      "stocks_kb": 488107.0,
+      "weekly_change_kb": -1002.0
+    },
+    {
+      "date": "2020-10-23",
+      "stocks_kb": 492427.0,
+      "weekly_change_kb": 4320.0
+    },
+    {
+      "date": "2020-10-30",
+      "stocks_kb": 484429.0,
+      "weekly_change_kb": -7998.0
+    },
+    {
+      "date": "2020-11-06",
+      "stocks_kb": 488706.0,
+      "weekly_change_kb": 4277.0
+    },
+    {
+      "date": "2020-11-13",
+      "stocks_kb": 489475.0,
+      "weekly_change_kb": 769.0
+    },
+    {
+      "date": "2020-11-20",
+      "stocks_kb": 488721.0,
+      "weekly_change_kb": -754.0
+    },
+    {
+      "date": "2020-11-27",
+      "stocks_kb": 488042.0,
+      "weekly_change_kb": -679.0
+    },
+    {
+      "date": "2020-12-04",
+      "stocks_kb": 503231.0,
+      "weekly_change_kb": 15189.0
+    },
+    {
+      "date": "2020-12-11",
+      "stocks_kb": 500096.0,
+      "weekly_change_kb": -3135.0
+    },
+    {
+      "date": "2020-12-18",
+      "stocks_kb": 499534.0,
+      "weekly_change_kb": -562.0
+    },
+    {
+      "date": "2020-12-25",
+      "stocks_kb": 493469.0,
+      "weekly_change_kb": -6065.0
+    },
+    {
+      "date": "2021-01-01",
+      "stocks_kb": 485459.0,
+      "weekly_change_kb": -8010.0
+    },
+    {
+      "date": "2021-01-08",
+      "stocks_kb": 482211.0,
+      "weekly_change_kb": -3248.0
+    },
+    {
+      "date": "2021-01-15",
+      "stocks_kb": 486563.0,
+      "weekly_change_kb": 4352.0
+    },
+    {
+      "date": "2021-01-22",
+      "stocks_kb": 476653.0,
+      "weekly_change_kb": -9910.0
+    },
+    {
+      "date": "2021-01-29",
+      "stocks_kb": 475659.0,
+      "weekly_change_kb": -994.0
+    },
+    {
+      "date": "2021-02-05",
+      "stocks_kb": 469014.0,
+      "weekly_change_kb": -6645.0
+    },
+    {
+      "date": "2021-02-12",
+      "stocks_kb": 461757.0,
+      "weekly_change_kb": -7257.0
+    },
+    {
+      "date": "2021-02-19",
+      "stocks_kb": 463042.0,
+      "weekly_change_kb": 1285.0
+    },
+    {
+      "date": "2021-02-26",
+      "stocks_kb": 484605.0,
+      "weekly_change_kb": 21563.0
+    },
+    {
+      "date": "2021-03-05",
+      "stocks_kb": 498403.0,
+      "weekly_change_kb": 13798.0
+    },
+    {
+      "date": "2021-03-12",
+      "stocks_kb": 500799.0,
+      "weekly_change_kb": 2396.0
+    },
+    {
+      "date": "2021-03-19",
+      "stocks_kb": 502711.0,
+      "weekly_change_kb": 1912.0
+    },
+    {
+      "date": "2021-03-26",
+      "stocks_kb": 501835.0,
+      "weekly_change_kb": -876.0
+    },
+    {
+      "date": "2021-04-02",
+      "stocks_kb": 498313.0,
+      "weekly_change_kb": -3522.0
+    },
+    {
+      "date": "2021-04-09",
+      "stocks_kb": 492423.0,
+      "weekly_change_kb": -5890.0
+    },
+    {
+      "date": "2021-04-16",
+      "stocks_kb": 493017.0,
+      "weekly_change_kb": 594.0
+    },
+    {
+      "date": "2021-04-23",
+      "stocks_kb": 493107.0,
+      "weekly_change_kb": 90.0
+    },
+    {
+      "date": "2021-04-30",
+      "stocks_kb": 485117.0,
+      "weekly_change_kb": -7990.0
+    },
+    {
+      "date": "2021-05-07",
+      "stocks_kb": 484691.0,
+      "weekly_change_kb": -426.0
+    },
+    {
+      "date": "2021-05-14",
+      "stocks_kb": 486011.0,
+      "weekly_change_kb": 1320.0
+    },
+    {
+      "date": "2021-05-21",
+      "stocks_kb": 484349.0,
+      "weekly_change_kb": -1662.0
+    },
+    {
+      "date": "2021-05-28",
+      "stocks_kb": 479270.0,
+      "weekly_change_kb": -5079.0
+    },
+    {
+      "date": "2021-06-04",
+      "stocks_kb": 474029.0,
+      "weekly_change_kb": -5241.0
+    },
+    {
+      "date": "2021-06-11",
+      "stocks_kb": 466674.0,
+      "weekly_change_kb": -7355.0
+    },
+    {
+      "date": "2021-06-18",
+      "stocks_kb": 459060.0,
+      "weekly_change_kb": -7614.0
+    },
+    {
+      "date": "2021-06-25",
+      "stocks_kb": 452342.0,
+      "weekly_change_kb": -6718.0
+    },
+    {
+      "date": "2021-07-02",
+      "stocks_kb": 445476.0,
+      "weekly_change_kb": -6866.0
+    },
+    {
+      "date": "2021-07-09",
+      "stocks_kb": 437580.0,
+      "weekly_change_kb": -7896.0
+    },
+    {
+      "date": "2021-07-16",
+      "stocks_kb": 439687.0,
+      "weekly_change_kb": 2107.0
+    },
+    {
+      "date": "2021-07-23",
+      "stocks_kb": 435598.0,
+      "weekly_change_kb": -4089.0
+    },
+    {
+      "date": "2021-07-30",
+      "stocks_kb": 439225.0,
+      "weekly_change_kb": 3627.0
+    },
+    {
+      "date": "2021-08-06",
+      "stocks_kb": 438777.0,
+      "weekly_change_kb": -448.0
+    },
+    {
+      "date": "2021-08-13",
+      "stocks_kb": 435544.0,
+      "weekly_change_kb": -3233.0
+    },
+    {
+      "date": "2021-08-20",
+      "stocks_kb": 432564.0,
+      "weekly_change_kb": -2980.0
+    },
+    {
+      "date": "2021-08-27",
+      "stocks_kb": 425395.0,
+      "weekly_change_kb": -7169.0
+    },
+    {
+      "date": "2021-09-03",
+      "stocks_kb": 423867.0,
+      "weekly_change_kb": -1528.0
+    },
+    {
+      "date": "2021-09-10",
+      "stocks_kb": 417445.0,
+      "weekly_change_kb": -6422.0
+    },
+    {
+      "date": "2021-09-17",
+      "stocks_kb": 413964.0,
+      "weekly_change_kb": -3481.0
+    },
+    {
+      "date": "2021-09-24",
+      "stocks_kb": 418542.0,
+      "weekly_change_kb": 4578.0
+    },
+    {
+      "date": "2021-10-01",
+      "stocks_kb": 420887.0,
+      "weekly_change_kb": 2345.0
+    },
+    {
+      "date": "2021-10-08",
+      "stocks_kb": 426975.0,
+      "weekly_change_kb": 6088.0
+    },
+    {
+      "date": "2021-10-15",
+      "stocks_kb": 426544.0,
+      "weekly_change_kb": -431.0
+    },
+    {
+      "date": "2021-10-22",
+      "stocks_kb": 430812.0,
+      "weekly_change_kb": 4268.0
+    },
+    {
+      "date": "2021-10-29",
+      "stocks_kb": 434102.0,
+      "weekly_change_kb": 3290.0
+    },
+    {
+      "date": "2021-11-05",
+      "stocks_kb": 435104.0,
+      "weekly_change_kb": 1002.0
+    },
+    {
+      "date": "2021-11-12",
+      "stocks_kb": 433003.0,
+      "weekly_change_kb": -2101.0
+    },
+    {
+      "date": "2021-11-19",
+      "stocks_kb": 434020.0,
+      "weekly_change_kb": 1017.0
+    },
+    {
+      "date": "2021-11-26",
+      "stocks_kb": 433111.0,
+      "weekly_change_kb": -909.0
+    },
+    {
+      "date": "2021-12-03",
+      "stocks_kb": 432870.0,
+      "weekly_change_kb": -241.0
+    },
+    {
+      "date": "2021-12-10",
+      "stocks_kb": 428286.0,
+      "weekly_change_kb": -4584.0
+    },
+    {
+      "date": "2021-12-17",
+      "stocks_kb": 423571.0,
+      "weekly_change_kb": -4715.0
+    },
+    {
+      "date": "2021-12-24",
+      "stocks_kb": 419995.0,
+      "weekly_change_kb": -3576.0
+    },
+    {
+      "date": "2021-12-31",
+      "stocks_kb": 417851.0,
+      "weekly_change_kb": -2144.0
+    },
+    {
+      "date": "2022-01-07",
+      "stocks_kb": 413298.0,
+      "weekly_change_kb": -4553.0
+    },
+    {
+      "date": "2022-01-14",
+      "stocks_kb": 413813.0,
+      "weekly_change_kb": 515.0
+    },
+    {
+      "date": "2022-01-21",
+      "stocks_kb": 416190.0,
+      "weekly_change_kb": 2377.0
+    },
+    {
+      "date": "2022-01-28",
+      "stocks_kb": 415143.0,
+      "weekly_change_kb": -1047.0
+    },
+    {
+      "date": "2022-02-04",
+      "stocks_kb": 410387.0,
+      "weekly_change_kb": -4756.0
+    },
+    {
+      "date": "2022-02-11",
+      "stocks_kb": 411508.0,
+      "weekly_change_kb": 1121.0
+    },
+    {
+      "date": "2022-02-18",
+      "stocks_kb": 416022.0,
+      "weekly_change_kb": 4514.0
+    },
+    {
+      "date": "2022-02-25",
+      "stocks_kb": 413425.0,
+      "weekly_change_kb": -2597.0
+    },
+    {
+      "date": "2022-03-04",
+      "stocks_kb": 411562.0,
+      "weekly_change_kb": -1863.0
+    },
+    {
+      "date": "2022-03-11",
+      "stocks_kb": 415907.0,
+      "weekly_change_kb": 4345.0
+    },
+    {
+      "date": "2022-03-18",
+      "stocks_kb": 413399.0,
+      "weekly_change_kb": -2508.0
+    },
+    {
+      "date": "2022-03-25",
+      "stocks_kb": 409950.0,
+      "weekly_change_kb": -3449.0
+    },
+    {
+      "date": "2022-04-01",
+      "stocks_kb": 412371.0,
+      "weekly_change_kb": 2421.0
+    },
+    {
+      "date": "2022-04-08",
+      "stocks_kb": 421753.0,
+      "weekly_change_kb": 9382.0
+    },
+    {
+      "date": "2022-04-15",
+      "stocks_kb": 413733.0,
+      "weekly_change_kb": -8020.0
+    },
+    {
+      "date": "2022-04-22",
+      "stocks_kb": 414424.0,
+      "weekly_change_kb": 691.0
+    },
+    {
+      "date": "2022-04-29",
+      "stocks_kb": 415727.0,
+      "weekly_change_kb": 1303.0
+    },
+    {
+      "date": "2022-05-06",
+      "stocks_kb": 424214.0,
+      "weekly_change_kb": 8487.0
+    },
+    {
+      "date": "2022-05-13",
+      "stocks_kb": 420820.0,
+      "weekly_change_kb": -3394.0
+    },
+    {
+      "date": "2022-05-20",
+      "stocks_kb": 419801.0,
+      "weekly_change_kb": -1019.0
+    },
+    {
+      "date": "2022-05-27",
+      "stocks_kb": 414733.0,
+      "weekly_change_kb": -5068.0
+    },
+    {
+      "date": "2022-06-03",
+      "stocks_kb": 416758.0,
+      "weekly_change_kb": 2025.0
+    },
+    {
+      "date": "2022-06-10",
+      "stocks_kb": 418714.0,
+      "weekly_change_kb": 1956.0
+    },
+    {
+      "date": "2022-06-17",
+      "stocks_kb": 418328.0,
+      "weekly_change_kb": -386.0
+    },
+    {
+      "date": "2022-06-24",
+      "stocks_kb": 415566.0,
+      "weekly_change_kb": -2762.0
+    },
+    {
+      "date": "2022-07-01",
+      "stocks_kb": 423800.0,
+      "weekly_change_kb": 8234.0
+    },
+    {
+      "date": "2022-07-08",
+      "stocks_kb": 427054.0,
+      "weekly_change_kb": 3254.0
+    },
+    {
+      "date": "2022-07-15",
+      "stocks_kb": 426609.0,
+      "weekly_change_kb": -445.0
+    },
+    {
+      "date": "2022-07-22",
+      "stocks_kb": 422086.0,
+      "weekly_change_kb": -4523.0
+    },
+    {
+      "date": "2022-07-29",
+      "stocks_kb": 426553.0,
+      "weekly_change_kb": 4467.0
+    },
+    {
+      "date": "2022-08-05",
+      "stocks_kb": 432010.0,
+      "weekly_change_kb": 5457.0
+    },
+    {
+      "date": "2022-08-12",
+      "stocks_kb": 424954.0,
+      "weekly_change_kb": -7056.0
+    },
+    {
+      "date": "2022-08-19",
+      "stocks_kb": 421672.0,
+      "weekly_change_kb": -3282.0
+    },
+    {
+      "date": "2022-08-26",
+      "stocks_kb": 418346.0,
+      "weekly_change_kb": -3326.0
+    },
+    {
+      "date": "2022-09-02",
+      "stocks_kb": 427191.0,
+      "weekly_change_kb": 8845.0
+    },
+    {
+      "date": "2022-09-09",
+      "stocks_kb": 429633.0,
+      "weekly_change_kb": 2442.0
+    },
+    {
+      "date": "2022-09-16",
+      "stocks_kb": 430774.0,
+      "weekly_change_kb": 1141.0
+    },
+    {
+      "date": "2022-09-23",
+      "stocks_kb": 430559.0,
+      "weekly_change_kb": -215.0
+    },
+    {
+      "date": "2022-09-30",
+      "stocks_kb": 429203.0,
+      "weekly_change_kb": -1356.0
+    },
+    {
+      "date": "2022-10-07",
+      "stocks_kb": 439082.0,
+      "weekly_change_kb": 9879.0
+    },
+    {
+      "date": "2022-10-14",
+      "stocks_kb": 437357.0,
+      "weekly_change_kb": -1725.0
+    },
+    {
+      "date": "2022-10-21",
+      "stocks_kb": 439945.0,
+      "weekly_change_kb": 2588.0
+    },
+    {
+      "date": "2022-10-28",
+      "stocks_kb": 436830.0,
+      "weekly_change_kb": -3115.0
+    },
+    {
+      "date": "2022-11-04",
+      "stocks_kb": 440755.0,
+      "weekly_change_kb": 3925.0
+    },
+    {
+      "date": "2022-11-11",
+      "stocks_kb": 435355.0,
+      "weekly_change_kb": -5400.0
+    },
+    {
+      "date": "2022-11-18",
+      "stocks_kb": 431665.0,
+      "weekly_change_kb": -3690.0
+    },
+    {
+      "date": "2022-11-25",
+      "stocks_kb": 419084.0,
+      "weekly_change_kb": -12581.0
+    },
+    {
+      "date": "2022-12-02",
+      "stocks_kb": 413898.0,
+      "weekly_change_kb": -5186.0
+    },
+    {
+      "date": "2022-12-09",
+      "stocks_kb": 424129.0,
+      "weekly_change_kb": 10231.0
+    },
+    {
+      "date": "2022-12-16",
+      "stocks_kb": 418234.0,
+      "weekly_change_kb": -5895.0
+    },
+    {
+      "date": "2022-12-23",
+      "stocks_kb": 418952.0,
+      "weekly_change_kb": 718.0
+    },
+    {
+      "date": "2022-12-30",
+      "stocks_kb": 420646.0,
+      "weekly_change_kb": 1694.0
+    },
+    {
+      "date": "2023-01-06",
+      "stocks_kb": 439607.0,
+      "weekly_change_kb": 18961.0
+    },
+    {
+      "date": "2023-01-13",
+      "stocks_kb": 448015.0,
+      "weekly_change_kb": 8408.0
+    },
+    {
+      "date": "2023-01-20",
+      "stocks_kb": 448548.0,
+      "weekly_change_kb": 533.0
+    },
+    {
+      "date": "2023-01-27",
+      "stocks_kb": 452688.0,
+      "weekly_change_kb": 4140.0
+    },
+    {
+      "date": "2023-02-03",
+      "stocks_kb": 455111.0,
+      "weekly_change_kb": 2423.0
+    },
+    {
+      "date": "2023-02-10",
+      "stocks_kb": 471394.0,
+      "weekly_change_kb": 16283.0
+    },
+    {
+      "date": "2023-02-17",
+      "stocks_kb": 479041.0,
+      "weekly_change_kb": 7647.0
+    },
+    {
+      "date": "2023-02-24",
+      "stocks_kb": 480207.0,
+      "weekly_change_kb": 1166.0
+    },
+    {
+      "date": "2023-03-03",
+      "stocks_kb": 478513.0,
+      "weekly_change_kb": -1694.0
+    },
+    {
+      "date": "2023-03-10",
+      "stocks_kb": 480063.0,
+      "weekly_change_kb": 1550.0
+    },
+    {
+      "date": "2023-03-17",
+      "stocks_kb": 481180.0,
+      "weekly_change_kb": 1117.0
+    },
+    {
+      "date": "2023-03-24",
+      "stocks_kb": 473691.0,
+      "weekly_change_kb": -7489.0
+    },
+    {
+      "date": "2023-03-31",
+      "stocks_kb": 469952.0,
+      "weekly_change_kb": -3739.0
+    },
+    {
+      "date": "2023-04-07",
+      "stocks_kb": 470549.0,
+      "weekly_change_kb": 597.0
+    },
+    {
+      "date": "2023-04-14",
+      "stocks_kb": 465968.0,
+      "weekly_change_kb": -4581.0
+    },
+    {
+      "date": "2023-04-21",
+      "stocks_kb": 460914.0,
+      "weekly_change_kb": -5054.0
+    },
+    {
+      "date": "2023-04-28",
+      "stocks_kb": 459633.0,
+      "weekly_change_kb": -1281.0
+    },
+    {
+      "date": "2023-05-05",
+      "stocks_kb": 462584.0,
+      "weekly_change_kb": 2951.0
+    },
+    {
+      "date": "2023-05-12",
+      "stocks_kb": 467624.0,
+      "weekly_change_kb": 5040.0
+    },
+    {
+      "date": "2023-05-19",
+      "stocks_kb": 455168.0,
+      "weekly_change_kb": -12456.0
+    },
+    {
+      "date": "2023-05-26",
+      "stocks_kb": 459657.0,
+      "weekly_change_kb": 4489.0
+    },
+    {
+      "date": "2023-06-02",
+      "stocks_kb": 459205.0,
+      "weekly_change_kb": -452.0
+    },
+    {
+      "date": "2023-06-09",
+      "stocks_kb": 467124.0,
+      "weekly_change_kb": 7919.0
+    },
+    {
+      "date": "2023-06-16",
+      "stocks_kb": 463293.0,
+      "weekly_change_kb": -3831.0
+    },
+    {
+      "date": "2023-06-23",
+      "stocks_kb": 453690.0,
+      "weekly_change_kb": -9603.0
+    },
+    {
+      "date": "2023-06-30",
+      "stocks_kb": 452182.0,
+      "weekly_change_kb": -1508.0
+    },
+    {
+      "date": "2023-07-07",
+      "stocks_kb": 458128.0,
+      "weekly_change_kb": 5946.0
+    },
+    {
+      "date": "2023-07-14",
+      "stocks_kb": 457420.0,
+      "weekly_change_kb": -708.0
+    },
+    {
+      "date": "2023-07-21",
+      "stocks_kb": 456820.0,
+      "weekly_change_kb": -600.0
+    },
+    {
+      "date": "2023-07-28",
+      "stocks_kb": 439771.0,
+      "weekly_change_kb": -17049.0
+    },
+    {
+      "date": "2023-08-04",
+      "stocks_kb": 445622.0,
+      "weekly_change_kb": 5851.0
+    },
+    {
+      "date": "2023-08-11",
+      "stocks_kb": 439662.0,
+      "weekly_change_kb": -5960.0
+    },
+    {
+      "date": "2023-08-18",
+      "stocks_kb": 433528.0,
+      "weekly_change_kb": -6134.0
+    },
+    {
+      "date": "2023-08-25",
+      "stocks_kb": 422944.0,
+      "weekly_change_kb": -10584.0
+    },
+    {
+      "date": "2023-09-01",
+      "stocks_kb": 416637.0,
+      "weekly_change_kb": -6307.0
+    },
+    {
+      "date": "2023-09-08",
+      "stocks_kb": 420592.0,
+      "weekly_change_kb": 3955.0
+    },
+    {
+      "date": "2023-09-15",
+      "stocks_kb": 418456.0,
+      "weekly_change_kb": -2136.0
+    },
+    {
+      "date": "2023-09-22",
+      "stocks_kb": 416287.0,
+      "weekly_change_kb": -2169.0
+    },
+    {
+      "date": "2023-09-29",
+      "stocks_kb": 414063.0,
+      "weekly_change_kb": -2224.0
+    },
+    {
+      "date": "2023-10-06",
+      "stocks_kb": 424239.0,
+      "weekly_change_kb": 10176.0
+    },
+    {
+      "date": "2023-10-13",
+      "stocks_kb": 419748.0,
+      "weekly_change_kb": -4491.0
+    },
+    {
+      "date": "2023-10-20",
+      "stocks_kb": 421120.0,
+      "weekly_change_kb": 1372.0
+    },
+    {
+      "date": "2023-10-27",
+      "stocks_kb": 421893.0,
+      "weekly_change_kb": 773.0
+    },
+    {
+      "date": "2023-11-03",
+      "stocks_kb": 435762.0,
+      "weekly_change_kb": 13869.0
+    },
+    {
+      "date": "2023-11-10",
+      "stocks_kb": 439354.0,
+      "weekly_change_kb": 3592.0
+    },
+    {
+      "date": "2023-11-17",
+      "stocks_kb": 448054.0,
+      "weekly_change_kb": 8700.0
+    },
+    {
+      "date": "2023-11-24",
+      "stocks_kb": 449664.0,
+      "weekly_change_kb": 1610.0
+    },
+    {
+      "date": "2023-12-01",
+      "stocks_kb": 445031.0,
+      "weekly_change_kb": -4633.0
+    },
+    {
+      "date": "2023-12-08",
+      "stocks_kb": 440773.0,
+      "weekly_change_kb": -4258.0
+    },
+    {
+      "date": "2023-12-15",
+      "stocks_kb": 443682.0,
+      "weekly_change_kb": 2909.0
+    },
+    {
+      "date": "2023-12-22",
+      "stocks_kb": 436568.0,
+      "weekly_change_kb": -7114.0
+    },
+    {
+      "date": "2023-12-29",
+      "stocks_kb": 431065.0,
+      "weekly_change_kb": -5503.0
+    },
+    {
+      "date": "2024-01-05",
+      "stocks_kb": 432403.0,
+      "weekly_change_kb": 1338.0
+    },
+    {
+      "date": "2024-01-12",
+      "stocks_kb": 429911.0,
+      "weekly_change_kb": -2492.0
+    },
+    {
+      "date": "2024-01-19",
+      "stocks_kb": 420678.0,
+      "weekly_change_kb": -9233.0
+    },
+    {
+      "date": "2024-01-26",
+      "stocks_kb": 421912.0,
+      "weekly_change_kb": 1234.0
+    },
+    {
+      "date": "2024-02-02",
+      "stocks_kb": 427432.0,
+      "weekly_change_kb": 5520.0
+    },
+    {
+      "date": "2024-02-09",
+      "stocks_kb": 439450.0,
+      "weekly_change_kb": 12018.0
+    },
+    {
+      "date": "2024-02-16",
+      "stocks_kb": 442964.0,
+      "weekly_change_kb": 3514.0
+    },
+    {
+      "date": "2024-02-23",
+      "stocks_kb": 447163.0,
+      "weekly_change_kb": 4199.0
+    },
+    {
+      "date": "2024-03-01",
+      "stocks_kb": 448530.0,
+      "weekly_change_kb": 1367.0
+    },
+    {
+      "date": "2024-03-08",
+      "stocks_kb": 446994.0,
+      "weekly_change_kb": -1536.0
+    },
+    {
+      "date": "2024-03-15",
+      "stocks_kb": 445042.0,
+      "weekly_change_kb": -1952.0
+    },
+    {
+      "date": "2024-03-22",
+      "stocks_kb": 448207.0,
+      "weekly_change_kb": 3165.0
+    },
+    {
+      "date": "2024-03-29",
+      "stocks_kb": 451417.0,
+      "weekly_change_kb": 3210.0
+    },
+    {
+      "date": "2024-04-05",
+      "stocks_kb": 457258.0,
+      "weekly_change_kb": 5841.0
+    },
+    {
+      "date": "2024-04-12",
+      "stocks_kb": 459993.0,
+      "weekly_change_kb": 2735.0
+    },
+    {
+      "date": "2024-04-19",
+      "stocks_kb": 453625.0,
+      "weekly_change_kb": -6368.0
+    },
+    {
+      "date": "2024-04-26",
+      "stocks_kb": 460890.0,
+      "weekly_change_kb": 7265.0
+    },
+    {
+      "date": "2024-05-03",
+      "stocks_kb": 459528.0,
+      "weekly_change_kb": -1362.0
+    },
+    {
+      "date": "2024-05-10",
+      "stocks_kb": 457020.0,
+      "weekly_change_kb": -2508.0
+    },
+    {
+      "date": "2024-05-17",
+      "stocks_kb": 458845.0,
+      "weekly_change_kb": 1825.0
+    },
+    {
+      "date": "2024-05-24",
+      "stocks_kb": 454689.0,
+      "weekly_change_kb": -4156.0
+    },
+    {
+      "date": "2024-05-31",
+      "stocks_kb": 455922.0,
+      "weekly_change_kb": 1233.0
+    },
+    {
+      "date": "2024-06-07",
+      "stocks_kb": 459652.0,
+      "weekly_change_kb": 3730.0
+    },
+    {
+      "date": "2024-06-14",
+      "stocks_kb": 457105.0,
+      "weekly_change_kb": -2547.0
+    },
+    {
+      "date": "2024-06-21",
+      "stocks_kb": 460696.0,
+      "weekly_change_kb": 3591.0
+    },
+    {
+      "date": "2024-06-28",
+      "stocks_kb": 448539.0,
+      "weekly_change_kb": -12157.0
+    },
+    {
+      "date": "2024-07-05",
+      "stocks_kb": 445096.0,
+      "weekly_change_kb": -3443.0
+    },
+    {
+      "date": "2024-07-12",
+      "stocks_kb": 440226.0,
+      "weekly_change_kb": -4870.0
+    },
+    {
+      "date": "2024-07-19",
+      "stocks_kb": 436485.0,
+      "weekly_change_kb": -3741.0
+    },
+    {
+      "date": "2024-07-26",
+      "stocks_kb": 433049.0,
+      "weekly_change_kb": -3436.0
+    },
+    {
+      "date": "2024-08-02",
+      "stocks_kb": 429321.0,
+      "weekly_change_kb": -3728.0
+    },
+    {
+      "date": "2024-08-09",
+      "stocks_kb": 430678.0,
+      "weekly_change_kb": 1357.0
+    },
+    {
+      "date": "2024-08-16",
+      "stocks_kb": 426029.0,
+      "weekly_change_kb": -4649.0
+    },
+    {
+      "date": "2024-08-23",
+      "stocks_kb": 425183.0,
+      "weekly_change_kb": -846.0
+    },
+    {
+      "date": "2024-08-30",
+      "stocks_kb": 418310.0,
+      "weekly_change_kb": -6873.0
+    },
+    {
+      "date": "2024-09-06",
+      "stocks_kb": 419143.0,
+      "weekly_change_kb": 833.0
+    },
+    {
+      "date": "2024-09-13",
+      "stocks_kb": 417513.0,
+      "weekly_change_kb": -1630.0
+    },
+    {
+      "date": "2024-09-20",
+      "stocks_kb": 413042.0,
+      "weekly_change_kb": -4471.0
+    },
+    {
+      "date": "2024-09-27",
+      "stocks_kb": 416931.0,
+      "weekly_change_kb": 3889.0
+    },
+    {
+      "date": "2024-10-04",
+      "stocks_kb": 422741.0,
+      "weekly_change_kb": 5810.0
+    },
+    {
+      "date": "2024-10-11",
+      "stocks_kb": 420550.0,
+      "weekly_change_kb": -2191.0
+    },
+    {
+      "date": "2024-10-18",
+      "stocks_kb": 426024.0,
+      "weekly_change_kb": 5474.0
+    },
+    {
+      "date": "2024-10-25",
+      "stocks_kb": 425509.0,
+      "weekly_change_kb": -515.0
+    },
+    {
+      "date": "2024-11-01",
+      "stocks_kb": 427658.0,
+      "weekly_change_kb": 2149.0
+    },
+    {
+      "date": "2024-11-08",
+      "stocks_kb": 429747.0,
+      "weekly_change_kb": 2089.0
+    },
+    {
+      "date": "2024-11-15",
+      "stocks_kb": 430292.0,
+      "weekly_change_kb": 545.0
+    },
+    {
+      "date": "2024-11-22",
+      "stocks_kb": 428448.0,
+      "weekly_change_kb": -1844.0
+    },
+    {
+      "date": "2024-11-29",
+      "stocks_kb": 423375.0,
+      "weekly_change_kb": -5073.0
+    },
+    {
+      "date": "2024-12-06",
+      "stocks_kb": 421950.0,
+      "weekly_change_kb": -1425.0
+    },
+    {
+      "date": "2024-12-13",
+      "stocks_kb": 421016.0,
+      "weekly_change_kb": -934.0
+    },
+    {
+      "date": "2024-12-20",
+      "stocks_kb": 416779.0,
+      "weekly_change_kb": -4237.0
+    },
+    {
+      "date": "2024-12-27",
+      "stocks_kb": 415601.0,
+      "weekly_change_kb": -1178.0
+    },
+    {
+      "date": "2025-01-03",
+      "stocks_kb": 414642.0,
+      "weekly_change_kb": -959.0
+    },
+    {
+      "date": "2025-01-10",
+      "stocks_kb": 412680.0,
+      "weekly_change_kb": -1962.0
+    },
+    {
+      "date": "2025-01-17",
+      "stocks_kb": 411663.0,
+      "weekly_change_kb": -1017.0
+    },
+    {
+      "date": "2025-01-24",
+      "stocks_kb": 415126.0,
+      "weekly_change_kb": 3463.0
+    },
+    {
+      "date": "2025-01-31",
+      "stocks_kb": 423790.0,
+      "weekly_change_kb": 8664.0
+    },
+    {
+      "date": "2025-02-07",
+      "stocks_kb": 427860.0,
+      "weekly_change_kb": 4070.0
+    },
+    {
+      "date": "2025-02-14",
+      "stocks_kb": 432493.0,
+      "weekly_change_kb": 4633.0
+    },
+    {
+      "date": "2025-02-21",
+      "stocks_kb": 430161.0,
+      "weekly_change_kb": -2332.0
+    },
+    {
+      "date": "2025-02-28",
+      "stocks_kb": 433775.0,
+      "weekly_change_kb": 3614.0
+    },
+    {
+      "date": "2025-03-07",
+      "stocks_kb": 435223.0,
+      "weekly_change_kb": 1448.0
+    },
+    {
+      "date": "2025-03-14",
+      "stocks_kb": 436968.0,
+      "weekly_change_kb": 1745.0
+    },
+    {
+      "date": "2025-03-21",
+      "stocks_kb": 433627.0,
+      "weekly_change_kb": -3341.0
+    },
+    {
+      "date": "2025-03-28",
+      "stocks_kb": 439792.0,
+      "weekly_change_kb": 6165.0
+    },
+    {
+      "date": "2025-04-04",
+      "stocks_kb": 442345.0,
+      "weekly_change_kb": 2553.0
+    },
+    {
+      "date": "2025-04-11",
+      "stocks_kb": 442860.0,
+      "weekly_change_kb": 515.0
+    },
+    {
+      "date": "2025-04-18",
+      "stocks_kb": 443104.0,
+      "weekly_change_kb": 244.0
+    },
+    {
+      "date": "2025-04-25",
+      "stocks_kb": 440408.0,
+      "weekly_change_kb": -2696.0
+    },
+    {
+      "date": "2025-05-02",
+      "stocks_kb": 438376.0,
+      "weekly_change_kb": -2032.0
+    },
+    {
+      "date": "2025-05-09",
+      "stocks_kb": 441830.0,
+      "weekly_change_kb": 3454.0
+    },
+    {
+      "date": "2025-05-16",
+      "stocks_kb": 443158.0,
+      "weekly_change_kb": 1328.0
+    },
+    {
+      "date": "2025-05-23",
+      "stocks_kb": 440363.0,
+      "weekly_change_kb": -2795.0
+    },
+    {
+      "date": "2025-05-30",
+      "stocks_kb": 436059.0,
+      "weekly_change_kb": -4304.0
+    },
+    {
+      "date": "2025-06-06",
+      "stocks_kb": 432415.0,
+      "weekly_change_kb": -3644.0
+    },
+    {
+      "date": "2025-06-13",
+      "stocks_kb": 420942.0,
+      "weekly_change_kb": -11473.0
+    },
+    {
+      "date": "2025-06-20",
+      "stocks_kb": 415106.0,
+      "weekly_change_kb": -5836.0
+    },
+    {
+      "date": "2025-06-27",
+      "stocks_kb": 418951.0,
+      "weekly_change_kb": 3845.0
+    },
+    {
+      "date": "2025-07-04",
+      "stocks_kb": 426021.0,
+      "weekly_change_kb": 7070.0
+    },
+    {
+      "date": "2025-07-11",
+      "stocks_kb": 422162.0,
+      "weekly_change_kb": -3859.0
+    },
+    {
+      "date": "2025-07-18",
+      "stocks_kb": 418993.0,
+      "weekly_change_kb": -3169.0
+    },
+    {
+      "date": "2025-07-25",
+      "stocks_kb": 426691.0,
+      "weekly_change_kb": 7698.0
+    },
+    {
+      "date": "2025-08-01",
+      "stocks_kb": 423662.0,
+      "weekly_change_kb": -3029.0
+    },
+    {
+      "date": "2025-08-08",
+      "stocks_kb": 426698.0,
+      "weekly_change_kb": 3036.0
+    },
+    {
+      "date": "2025-08-15",
+      "stocks_kb": 420684.0,
+      "weekly_change_kb": -6014.0
+    },
+    {
+      "date": "2025-08-22",
+      "stocks_kb": 418292.0,
+      "weekly_change_kb": -2392.0
+    },
+    {
+      "date": "2025-08-29",
+      "stocks_kb": 420707.0,
+      "weekly_change_kb": 2415.0
+    },
+    {
+      "date": "2025-09-05",
+      "stocks_kb": 424646.0,
+      "weekly_change_kb": 3939.0
+    },
+    {
+      "date": "2025-09-12",
+      "stocks_kb": 415361.0,
+      "weekly_change_kb": -9285.0
+    },
+    {
+      "date": "2025-09-19",
+      "stocks_kb": 414754.0,
+      "weekly_change_kb": -607.0
+    },
+    {
+      "date": "2025-09-26",
+      "stocks_kb": 416546.0,
+      "weekly_change_kb": 1792.0
+    },
+    {
+      "date": "2025-10-03",
+      "stocks_kb": 420261.0,
+      "weekly_change_kb": 3715.0
+    },
+    {
+      "date": "2025-10-10",
+      "stocks_kb": 423785.0,
+      "weekly_change_kb": 3524.0
+    },
+    {
+      "date": "2025-10-17",
+      "stocks_kb": 422824.0,
+      "weekly_change_kb": -961.0
+    },
+    {
+      "date": "2025-10-24",
+      "stocks_kb": 415966.0,
+      "weekly_change_kb": -6858.0
+    },
+    {
+      "date": "2025-10-31",
+      "stocks_kb": 421168.0,
+      "weekly_change_kb": 5202.0
+    },
+    {
+      "date": "2025-11-07",
+      "stocks_kb": 427581.0,
+      "weekly_change_kb": 6413.0
+    },
+    {
+      "date": "2025-11-14",
+      "stocks_kb": 424155.0,
+      "weekly_change_kb": -3426.0
+    },
+    {
+      "date": "2025-11-21",
+      "stocks_kb": 426929.0,
+      "weekly_change_kb": 2774.0
+    },
+    {
+      "date": "2025-11-28",
+      "stocks_kb": 427503.0,
+      "weekly_change_kb": 574.0
+    },
+    {
+      "date": "2025-12-05",
+      "stocks_kb": 425691.0,
+      "weekly_change_kb": -1812.0
+    },
+    {
+      "date": "2025-12-12",
+      "stocks_kb": 424417.0,
+      "weekly_change_kb": -1274.0
+    },
+    {
+      "date": "2025-12-19",
+      "stocks_kb": 424822.0,
+      "weekly_change_kb": 405.0
+    },
+    {
+      "date": "2025-12-26",
+      "stocks_kb": 422888.0,
+      "weekly_change_kb": -1934.0
+    },
+    {
+      "date": "2026-01-02",
+      "stocks_kb": 419056.0,
+      "weekly_change_kb": -3832.0
+    },
+    {
+      "date": "2026-01-09",
+      "stocks_kb": 422447.0,
+      "weekly_change_kb": 3391.0
+    },
+    {
+      "date": "2026-01-16",
+      "stocks_kb": 426049.0,
+      "weekly_change_kb": 3602.0
+    },
+    {
+      "date": "2026-01-23",
+      "stocks_kb": 423754.0,
+      "weekly_change_kb": -2295.0
+    },
+    {
+      "date": "2026-01-30",
+      "stocks_kb": 420299.0,
+      "weekly_change_kb": -3455.0
+    },
+    {
+      "date": "2026-02-06",
+      "stocks_kb": 428829.0,
+      "weekly_change_kb": 8530.0
+    },
+    {
+      "date": "2026-02-13",
+      "stocks_kb": 419815.0,
+      "weekly_change_kb": -9014.0
+    },
+    {
+      "date": "2026-02-20",
+      "stocks_kb": 435804.0,
+      "weekly_change_kb": 15989.0
+    },
+    {
+      "date": "2026-02-27",
+      "stocks_kb": 439279.0,
+      "weekly_change_kb": 3475.0
+    },
+    {
+      "date": "2026-03-06",
+      "stocks_kb": 443103.0,
+      "weekly_change_kb": 3824.0
+    },
+    {
+      "date": "2026-03-13",
+      "stocks_kb": 449259.0,
+      "weekly_change_kb": 6156.0
+    },
+    {
+      "date": "2026-03-20",
+      "stocks_kb": 456185.0,
+      "weekly_change_kb": 6926.0
+    },
+    {
+      "date": "2026-03-27",
+      "stocks_kb": 461636.0,
+      "weekly_change_kb": 5451.0
+    },
+    {
+      "date": "2026-04-03",
+      "stocks_kb": 464717.0,
+      "weekly_change_kb": 3081.0
+    },
+    {
+      "date": "2026-04-10",
+      "stocks_kb": 463804.0,
+      "weekly_change_kb": -913.0
+    },
+    {
+      "date": "2026-04-17",
+      "stocks_kb": 465729.0,
+      "weekly_change_kb": 1925.0
+    },
+    {
+      "date": "2026-04-24",
+      "stocks_kb": 459495.0,
+      "weekly_change_kb": -6234.0
+    },
+    {
+      "date": "2026-05-01",
+      "stocks_kb": 457182.0,
+      "weekly_change_kb": -2313.0
+    },
+    {
+      "date": "2026-05-08",
+      "stocks_kb": 452876.0,
+      "weekly_change_kb": -4306.0
+    },
+    {
+      "date": "2026-05-15",
+      "stocks_kb": 445013.0,
+      "weekly_change_kb": -7863.0
+    },
+    {
+      "date": "2026-05-22",
+      "stocks_kb": 441686.0,
+      "weekly_change_kb": -3327.0
+    },
+    {
+      "date": "2026-05-29",
+      "stocks_kb": 433712.0,
+      "weekly_change_kb": -7974.0
+    },
+    {
+      "date": "2026-06-05",
+      "stocks_kb": 426485.0,
+      "weekly_change_kb": -7227.0
+    },
+    {
+      "date": "2026-06-12",
+      "stocks_kb": 418222.0,
+      "weekly_change_kb": -8263.0
+    },
+    {
+      "date": "2026-06-19",
+      "stocks_kb": 412134.0,
+      "weekly_change_kb": -6088.0
+    },
+    {
+      "date": "2026-06-26",
+      "stocks_kb": 408359.0,
+      "weekly_change_kb": -3775.0
+    },
+    {
+      "date": "2026-07-03",
+      "stocks_kb": 411357.0,
+      "weekly_change_kb": 2998.0
+    },
+    {
+      "date": "2026-07-10",
+      "stocks_kb": 409665.0,
+      "weekly_change_kb": -1692.0
+    },
+    {
+      "date": "2026-07-17",
+      "stocks_kb": 411675.0,
+      "weekly_change_kb": 2010.0
+    },
+    {
+      "date": "2026-07-24",
+      "stocks_kb": 404508.0,
+      "weekly_change_kb": -7167.0
+    },
+    {
+      "date": "2026-07-31",
+      "stocks_kb": 406987.0,
+      "weekly_change_kb": 2479.0
+    },
+    {
+      "date": "2026-08-07",
+      "stocks_kb": 424410.0,
+      "weekly_change_kb": 17423.0
+    },
+    {
+      "date": "2026-08-14",
+      "stocks_kb": 428815.0,
+      "weekly_change_kb": 4405.0
+    },
+    {
+      "date": "2026-08-21",
+      "stocks_kb": 428910.0,
+      "weekly_change_kb": 95.0
+    },
+    {
+      "date": "2026-08-28",
+      "stocks_kb": 424460.0,
+      "weekly_change_kb": -4450.0
+    },
+    {
+      "date": "2026-09-04",
+      "stocks_kb": 424069.0,
+      "weekly_change_kb": -391.0
+    },
+    {
+      "date": "2026-09-11",
+      "stocks_kb": 423429.0,
+      "weekly_change_kb": -640.0
+    }
+  ]
+}

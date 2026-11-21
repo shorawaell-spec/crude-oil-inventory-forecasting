@@ -1,0 +1,2 @@
+Model,MAE (kb),RMSE (kb),R² Score
+"SARIMAX(2, 0, 2)+VIF-pruned",3711.21,4770.73,0.0509

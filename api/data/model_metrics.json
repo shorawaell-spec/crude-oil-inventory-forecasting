@@ -1,0 +1,52 @@
+{
+  "evaluation_window": {
+    "start": "2024-09-20",
+    "end": "2026-09-11",
+    "weeks": 104
+  },
+  "best_model": "LightGBM",
+  "models": [
+    {
+      "model": "Naive Persistence",
+      "mae_kb": 4730.71,
+      "rmse_kb": 6360.17,
+      "r2": -0.6868,
+      "directional_accuracy_pct": null
+    },
+    {
+      "model": "Seasonal Naive (52-wk)",
+      "mae_kb": 4800.43,
+      "rmse_kb": 6144.67,
+      "r2": -0.5744,
+      "directional_accuracy_pct": null
+    },
+    {
+      "model": "Historical Mean",
+      "mae_kb": 3891.63,
+      "rmse_kb": 4897.55,
+      "r2": -0.0002,
+      "directional_accuracy_pct": null
+    },
+    {
+      "model": "SARIMAX(2,0,2)+VIF",
+      "mae_kb": 3711.21,
+      "rmse_kb": 4770.73,
+      "r2": 0.0509,
+      "directional_accuracy_pct": null
+    },
+    {
+      "model": "LightGBM",
+      "mae_kb": 3656.41,
+      "rmse_kb": 4677.17,
+      "r2": 0.0878,
+      "directional_accuracy_pct": 59.62
+    },
+    {
+      "model": "LSTM",
+      "mae_kb": 3941.76,
+      "rmse_kb": 4910.4,
+      "r2": -0.0055,
+      "directional_accuracy_pct": 50.96
+    }
+  ]
+}

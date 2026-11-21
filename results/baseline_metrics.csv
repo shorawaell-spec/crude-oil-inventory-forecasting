@@ -1,0 +1,4 @@
+Model,MAE (kb),RMSE (kb),R² Score
+Naive (Persistence),4730.71,6360.17,-0.6868
+Seasonal Naive (52-Wk),4800.43,6144.67,-0.5744
+Historical Mean,3891.63,4897.55,-0.0002

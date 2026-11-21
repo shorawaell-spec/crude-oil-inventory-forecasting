@@ -1,0 +1,82 @@
+{
+  "model": "LightGBM",
+  "metric": "split_count",
+  "features": [
+    {
+      "feature": "crude_stocks_ex_spr",
+      "importance": 149
+    },
+    {
+      "feature": "refinery_utilisation",
+      "importance": 132
+    },
+    {
+      "feature": "implied_change",
+      "importance": 117
+    },
+    {
+      "feature": "stocks_change_4wk_avg",
+      "importance": 100
+    },
+    {
+      "feature": "crude_production",
+      "importance": 81
+    },
+    {
+      "feature": "crude_exports",
+      "importance": 67
+    },
+    {
+      "feature": "distillate_stocks",
+      "importance": 65
+    },
+    {
+      "feature": "week_sin",
+      "importance": 62
+    },
+    {
+      "feature": "stocks_vs_5yr_avg",
+      "importance": 57
+    },
+    {
+      "feature": "crude_imports",
+      "importance": 49
+    },
+    {
+      "feature": "stocks_change",
+      "importance": 45
+    },
+    {
+      "feature": "week_cos",
+      "importance": 45
+    },
+    {
+      "feature": "gasoline_stocks",
+      "importance": 43
+    },
+    {
+      "feature": "wti_price",
+      "importance": 35
+    },
+    {
+      "feature": "spr_change",
+      "importance": 23
+    },
+    {
+      "feature": "cushing_stocks",
+      "importance": 19
+    },
+    {
+      "feature": "spr_stocks",
+      "importance": 13
+    },
+    {
+      "feature": "brent_wti_spread",
+      "importance": 7
+    },
+    {
+      "feature": "is_event",
+      "importance": 0
+    }
+  ]
+}

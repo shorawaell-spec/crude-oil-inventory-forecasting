@@ -1,0 +1,525 @@
+{
+  "model": "LightGBM",
+  "weeks": [
+    {
+      "date": "2024-09-20",
+      "actual_kb": 3889.0,
+      "predicted_kb": 511.3
+    },
+    {
+      "date": "2024-09-27",
+      "actual_kb": 5810.0,
+      "predicted_kb": 3063.1
+    },
+    {
+      "date": "2024-10-04",
+      "actual_kb": -2191.0,
+      "predicted_kb": 1724.6
+    },
+    {
+      "date": "2024-10-11",
+      "actual_kb": 5474.0,
+      "predicted_kb": 1134.9
+    },
+    {
+      "date": "2024-10-18",
+      "actual_kb": -515.0,
+      "predicted_kb": 923.3
+    },
+    {
+      "date": "2024-10-25",
+      "actual_kb": 2149.0,
+      "predicted_kb": 416.2
+    },
+    {
+      "date": "2024-11-01",
+      "actual_kb": 2089.0,
+      "predicted_kb": 1035.4
+    },
+    {
+      "date": "2024-11-08",
+      "actual_kb": 545.0,
+      "predicted_kb": -1359.1
+    },
+    {
+      "date": "2024-11-15",
+      "actual_kb": -1844.0,
+      "predicted_kb": 735.0
+    },
+    {
+      "date": "2024-11-22",
+      "actual_kb": -5073.0,
+      "predicted_kb": 655.0
+    },
+    {
+      "date": "2024-11-29",
+      "actual_kb": -1425.0,
+      "predicted_kb": -1777.7
+    },
+    {
+      "date": "2024-12-06",
+      "actual_kb": -934.0,
+      "predicted_kb": -1341.5
+    },
+    {
+      "date": "2024-12-13",
+      "actual_kb": -4237.0,
+      "predicted_kb": -1960.6
+    },
+    {
+      "date": "2024-12-20",
+      "actual_kb": -1178.0,
+      "predicted_kb": 468.9
+    },
+    {
+      "date": "2024-12-27",
+      "actual_kb": -959.0,
+      "predicted_kb": 316.9
+    },
+    {
+      "date": "2025-01-03",
+      "actual_kb": -1962.0,
+      "predicted_kb": 309.8
+    },
+    {
+      "date": "2025-01-10",
+      "actual_kb": -1017.0,
+      "predicted_kb": 369.6
+    },
+    {
+      "date": "2025-01-17",
+      "actual_kb": 3463.0,
+      "predicted_kb": 1940.1
+    },
+    {
+      "date": "2025-01-24",
+      "actual_kb": 8664.0,
+      "predicted_kb": 2348.2
+    },
+    {
+      "date": "2025-01-31",
+      "actual_kb": 4070.0,
+      "predicted_kb": 2228.2
+    },
+    {
+      "date": "2025-02-07",
+      "actual_kb": 4633.0,
+      "predicted_kb": 2752.7
+    },
+    {
+      "date": "2025-02-14",
+      "actual_kb": -2332.0,
+      "predicted_kb": 2252.3
+    },
+    {
+      "date": "2025-02-21",
+      "actual_kb": 3614.0,
+      "predicted_kb": 2476.1
+    },
+    {
+      "date": "2025-02-28",
+      "actual_kb": 1448.0,
+      "predicted_kb": 2630.9
+    },
+    {
+      "date": "2025-03-07",
+      "actual_kb": 1745.0,
+      "predicted_kb": 1439.9
+    },
+    {
+      "date": "2025-03-14",
+      "actual_kb": -3341.0,
+      "predicted_kb": 1326.6
+    },
+    {
+      "date": "2025-03-21",
+      "actual_kb": 6165.0,
+      "predicted_kb": 1326.5
+    },
+    {
+      "date": "2025-03-28",
+      "actual_kb": 2553.0,
+      "predicted_kb": 1622.2
+    },
+    {
+      "date": "2025-04-04",
+      "actual_kb": 515.0,
+      "predicted_kb": 1386.1
+    },
+    {
+      "date": "2025-04-11",
+      "actual_kb": 244.0,
+      "predicted_kb": 1689.1
+    },
+    {
+      "date": "2025-04-18",
+      "actual_kb": -2696.0,
+      "predicted_kb": 1008.8
+    },
+    {
+      "date": "2025-04-25",
+      "actual_kb": -2032.0,
+      "predicted_kb": 927.7
+    },
+    {
+      "date": "2025-05-02",
+      "actual_kb": 3454.0,
+      "predicted_kb": 838.3
+    },
+    {
+      "date": "2025-05-09",
+      "actual_kb": 1328.0,
+      "predicted_kb": 539.6
+    },
+    {
+      "date": "2025-05-16",
+      "actual_kb": -2795.0,
+      "predicted_kb": 402.3
+    },
+    {
+      "date": "2025-05-23",
+      "actual_kb": -4304.0,
+      "predicted_kb": 507.0
+    },
+    {
+      "date": "2025-05-30",
+      "actual_kb": -3644.0,
+      "predicted_kb": -756.8
+    },
+    {
+      "date": "2025-06-06",
+      "actual_kb": -11473.0,
+      "predicted_kb": -1385.8
+    },
+    {
+      "date": "2025-06-13",
+      "actual_kb": -5836.0,
+      "predicted_kb": -506.3
+    },
+    {
+      "date": "2025-06-20",
+      "actual_kb": 3845.0,
+      "predicted_kb": 2083.9
+    },
+    {
+      "date": "2025-06-27",
+      "actual_kb": 7070.0,
+      "predicted_kb": -718.8
+    },
+    {
+      "date": "2025-07-04",
+      "actual_kb": -3859.0,
+      "predicted_kb": -758.4
+    },
+    {
+      "date": "2025-07-11",
+      "actual_kb": -3169.0,
+      "predicted_kb": -1087.0
+    },
+    {
+      "date": "2025-07-18",
+      "actual_kb": 7698.0,
+      "predicted_kb": -1033.1
+    },
+    {
+      "date": "2025-07-25",
+      "actual_kb": -3029.0,
+      "predicted_kb": -2180.9
+    },
+    {
+      "date": "2025-08-01",
+      "actual_kb": 3036.0,
+      "predicted_kb": -1350.2
+    },
+    {
+      "date": "2025-08-08",
+      "actual_kb": -6014.0,
+      "predicted_kb": -2377.5
+    },
+    {
+      "date": "2025-08-15",
+      "actual_kb": -2392.0,
+      "predicted_kb": -3061.4
+    },
+    {
+      "date": "2025-08-22",
+      "actual_kb": 2415.0,
+      "predicted_kb": -1554.5
+    },
+    {
+      "date": "2025-08-29",
+      "actual_kb": 3939.0,
+      "predicted_kb": -1530.1
+    },
+    {
+      "date": "2025-09-05",
+      "actual_kb": -9285.0,
+      "predicted_kb": -1323.2
+    },
+    {
+      "date": "2025-09-12",
+      "actual_kb": -607.0,
+      "predicted_kb": 912.5
+    },
+    {
+      "date": "2025-09-19",
+      "actual_kb": 1792.0,
+      "predicted_kb": -35.3
+    },
+    {
+      "date": "2025-09-26",
+      "actual_kb": 3715.0,
+      "predicted_kb": 1584.7
+    },
+    {
+      "date": "2025-10-03",
+      "actual_kb": 3524.0,
+      "predicted_kb": -1243.2
+    },
+    {
+      "date": "2025-10-10",
+      "actual_kb": -961.0,
+      "predicted_kb": 1267.2
+    },
+    {
+      "date": "2025-10-17",
+      "actual_kb": -6858.0,
+      "predicted_kb": 1251.2
+    },
+    {
+      "date": "2025-10-24",
+      "actual_kb": 5202.0,
+      "predicted_kb": 937.9
+    },
+    {
+      "date": "2025-10-31",
+      "actual_kb": 6413.0,
+      "predicted_kb": 1434.5
+    },
+    {
+      "date": "2025-11-07",
+      "actual_kb": -3426.0,
+      "predicted_kb": 1037.7
+    },
+    {
+      "date": "2025-11-14",
+      "actual_kb": 2774.0,
+      "predicted_kb": 634.8
+    },
+    {
+      "date": "2025-11-21",
+      "actual_kb": 574.0,
+      "predicted_kb": -1853.1
+    },
+    {
+      "date": "2025-11-28",
+      "actual_kb": -1812.0,
+      "predicted_kb": -1850.6
+    },
+    {
+      "date": "2025-12-05",
+      "actual_kb": -1274.0,
+      "predicted_kb": -1460.9
+    },
+    {
+      "date": "2025-12-12",
+      "actual_kb": 405.0,
+      "predicted_kb": -1712.6
+    },
+    {
+      "date": "2025-12-19",
+      "actual_kb": -1934.0,
+      "predicted_kb": -1743.1
+    },
+    {
+      "date": "2025-12-26",
+      "actual_kb": -3832.0,
+      "predicted_kb": -359.3
+    },
+    {
+      "date": "2026-01-02",
+      "actual_kb": 3391.0,
+      "predicted_kb": -1893.1
+    },
+    {
+      "date": "2026-01-09",
+      "actual_kb": 3602.0,
+      "predicted_kb": -1114.1
+    },
+    {
+      "date": "2026-01-16",
+      "actual_kb": -2295.0,
+      "predicted_kb": -1013.0
+    },
+    {
+      "date": "2026-01-23",
+      "actual_kb": -3455.0,
+      "predicted_kb": 1590.8
+    },
+    {
+      "date": "2026-01-30",
+      "actual_kb": 8530.0,
+      "predicted_kb": 1801.5
+    },
+    {
+      "date": "2026-02-06",
+      "actual_kb": -9014.0,
+      "predicted_kb": 2122.5
+    },
+    {
+      "date": "2026-02-13",
+      "actual_kb": 15989.0,
+      "predicted_kb": 1043.7
+    },
+    {
+      "date": "2026-02-20",
+      "actual_kb": 3475.0,
+      "predicted_kb": 3149.8
+    },
+    {
+      "date": "2026-02-27",
+      "actual_kb": 3824.0,
+      "predicted_kb": 1699.1
+    },
+    {
+      "date": "2026-03-06",
+      "actual_kb": 6156.0,
+      "predicted_kb": 1361.2
+    },
+    {
+      "date": "2026-03-13",
+      "actual_kb": 6926.0,
+      "predicted_kb": 359.4
+    },
+    {
+      "date": "2026-03-20",
+      "actual_kb": 5451.0,
+      "predicted_kb": -698.9
+    },
+    {
+      "date": "2026-03-27",
+      "actual_kb": 3081.0,
+      "predicted_kb": -929.3
+    },
+    {
+      "date": "2026-04-03",
+      "actual_kb": -913.0,
+      "predicted_kb": -1464.4
+    },
+    {
+      "date": "2026-04-10",
+      "actual_kb": 1925.0,
+      "predicted_kb": -970.9
+    },
+    {
+      "date": "2026-04-17",
+      "actual_kb": -6234.0,
+      "predicted_kb": -559.6
+    },
+    {
+      "date": "2026-04-24",
+      "actual_kb": -2313.0,
+      "predicted_kb": -635.2
+    },
+    {
+      "date": "2026-05-01",
+      "actual_kb": -4306.0,
+      "predicted_kb": -384.6
+    },
+    {
+      "date": "2026-05-08",
+      "actual_kb": -7863.0,
+      "predicted_kb": -1975.1
+    },
+    {
+      "date": "2026-05-15",
+      "actual_kb": -3327.0,
+      "predicted_kb": -591.2
+    },
+    {
+      "date": "2026-05-22",
+      "actual_kb": -7974.0,
+      "predicted_kb": -1080.0
+    },
+    {
+      "date": "2026-05-29",
+      "actual_kb": -7227.0,
+      "predicted_kb": -756.0
+    },
+    {
+      "date": "2026-06-05",
+      "actual_kb": -8263.0,
+      "predicted_kb": -1760.2
+    },
+    {
+      "date": "2026-06-12",
+      "actual_kb": -6088.0,
+      "predicted_kb": 238.7
+    },
+    {
+      "date": "2026-06-19",
+      "actual_kb": -3775.0,
+      "predicted_kb": 1976.5
+    },
+    {
+      "date": "2026-06-26",
+      "actual_kb": 2998.0,
+      "predicted_kb": 1976.5
+    },
+    {
+      "date": "2026-07-03",
+      "actual_kb": -1692.0,
+      "predicted_kb": 2091.9
+    },
+    {
+      "date": "2026-07-10",
+      "actual_kb": 2010.0,
+      "predicted_kb": 1976.5
+    },
+    {
+      "date": "2026-07-17",
+      "actual_kb": -7167.0,
+      "predicted_kb": 1660.4
+    },
+    {
+      "date": "2026-07-24",
+      "actual_kb": 2479.0,
+      "predicted_kb": 1771.3
+    },
+    {
+      "date": "2026-07-31",
+      "actual_kb": 17423.0,
+      "predicted_kb": 1167.4
+    },
+    {
+      "date": "2026-08-07",
+      "actual_kb": 4405.0,
+      "predicted_kb": -1118.8
+    },
+    {
+      "date": "2026-08-14",
+      "actual_kb": 95.0,
+      "predicted_kb": -2963.4
+    },
+    {
+      "date": "2026-08-21",
+      "actual_kb": -4450.0,
+      "predicted_kb": -2723.4
+    },
+    {
+      "date": "2026-08-28",
+      "actual_kb": -391.0,
+      "predicted_kb": -2439.7
+    },
+    {
+      "date": "2026-09-04",
+      "actual_kb": -640.0,
+      "predicted_kb": -2066.9
+    },
+    {
+      "date": "2026-09-11",
+      "actual_kb": 2969.0,
+      "predicted_kb": -2879.6
+    }
+  ]
+}

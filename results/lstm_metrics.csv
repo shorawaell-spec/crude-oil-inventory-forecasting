@@ -1,0 +1,2 @@
+Model,MAE (kb),RMSE (kb),R² Score,Directional Accuracy (%)
+LSTM (PyTorch Regularized),3941.76,4910.4,-0.0055,50.96
